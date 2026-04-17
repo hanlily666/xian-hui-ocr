@@ -1,0 +1,30 @@
+# Environment — never commit real secrets
+.env
+.env.local
+.env*.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.venv/
+venv/
+
+# Next.js
+website/.next/
+website/out/
+website/node_modules/
+website/.env.local
+website/tsconfig.tsbuildinfo
+
+# Temp data directories
+website_data_tmp*/
+
+# Claude internal
+.claude/
+
+# macOS
+.DS_Store
+
+# OCR layout images (large, reproducible)
+output_cloud/layout_det_res_*.jpg

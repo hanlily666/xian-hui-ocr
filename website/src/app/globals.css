@@ -1,0 +1,9 @@
+@import "tailwindcss";
+
+:root {
+  --font-sans: "Noto Sans SC", "PingFang SC", "Microsoft YaHei", system-ui, sans-serif;
+}
+
+body {
+  font-family: var(--font-sans);
+}

@@ -1,0 +1,4289 @@
+{
+  "metadata": {
+    "title": "西安回族方言",
+    "totalEntries": 148,
+    "sections": [
+      "A",
+      "B"
+    ],
+    "originCounts": {
+      "general": 110,
+      "persian": 15,
+      "arabic": 27,
+      "uyghur": 1,
+      "turkic": 1,
+      "mongolian": 1
+    },
+    "starredCount": 51
+  },
+  "entries": [
+    {
+      "id": "ǎ",
+      "headword": "阿",
+      "starred": false,
+      "pinyin": "ǎ",
+      "tonalNotation": "a ²¹ ",
+      "ipa": "a ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "“哪”的音变字，",
+          "examples": [
+            "“你是～一个？”就是“你是哪一个？”“你在～塔儿呢？”就是“你在哪儿呢？”“我到～塔儿去？”就是“我到哪里去呢？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿】ǎ（a $ ^{21} $）[a $ ^{21} $]“哪”的音变字，例：“你是～一个？”就是“你是哪一个？”“你在～塔儿呢？”就是“你在哪儿呢？”“我到～塔儿去？”就是“我到哪里去呢？”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-bāi-zǐ",
+      "headword": "阿伯子",
+      "starred": false,
+      "pinyin": "ā bāi zǐ",
+      "tonalNotation": "a ²¹ bei ²¹ zi ⁰ ",
+      "ipa": "a ²¹ pei ²¹ .ts",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "丈夫的哥哥，也称“阿伯子哥”。",
+          "examples": [
+            "“我～比我老汉（丈夫）大十岁呢！”“前边乃个大个子就是我的～，后面那个小个子是我老汉。”"
+          ],
+          "notes": "该词语只是对别人表述时的一个称谓、叫法，当面绝对不可使用，而叫哥、大哥、二哥。"
+        }
+      ],
+      "rawText": "【阿伯子】ā bāi zǐ（a $ ^{21} $bei $ ^{21} $zi $ ^{0} $）[a $ ^{21} $pei $ ^{21} $.ts]丈夫的哥哥，也称“阿伯子哥”。例：“我～比我老汉（丈夫）大十岁呢！”“前边乃个大个子就是我的～，后面那个小个子是我老汉。”注：该词语只是对别人表述时的一个称谓、叫法，当面绝对不可使用，而叫哥、大哥、二哥。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-dá-bǎi-shén",
+      "headword": "阿达百神",
+      "starred": false,
+      "pinyin": "ā dá bǎi shén",
+      "tonalNotation": "a ⁵³ da ²¹ bei ²¹ shen ²⁴⁻²¹ ",
+      "ipa": "a ⁵³ ta ²¹ pei ²¹ sē ²⁴⁻²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "心不在焉，精神不集中，做事不专心。",
+          "examples": [
+            "“你咋拿这个丢那个，一天到黑（整天）～的。”“我说话你没听见？～的干啥呢！”“你～端盘子打碗的心不在焉！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿达百神】ā dá bǎi shén（a $ ^{53} $da $ ^{21} $bei $ ^{21} $shen $ ^{24-21} $）[a $ ^{53} $ta $ ^{21} $pei $ ^{21} $sē $ ^{24-21} $] 心不在焉，精神不集中，做事不专心。例：“你咋拿这个丢那个，一天到黑（整天）～的。”“我说话你没听见？～的干啥呢！”“你～端盘子打碗的心不在焉！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-bù",
+      "headword": "阿布",
+      "starred": true,
+      "pinyin": "ā bù",
+      "tonalNotation": "a ²⁴ bu ²¹ ",
+      "ipa": "a ²⁴ pu ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语 ﹃﹃，水。西安回民使用，且又隐喻为“酒”的代词。",
+          "examples": [
+            "“你给汤瓶壶（水壶）灌些～，把你的手脸好好洗一洗！”“那个人就不是一个正儿八经的回回，不避人地拿着～瓶瓶子喝个不停。”"
+          ],
+          "notes": "该词在波斯语里也作为“酒水”的代词。"
+        }
+      ],
+      "rawText": "【阿布★】ā bù（a $ ^{24} $bu $ ^{21} $）[a $ ^{24} $pu $ ^{21} $] 波斯语 ﹃﹃，水。西安回民使用，且又隐喻为“酒”的代词。例：“你给汤瓶壶（水壶）灌些～，把你的手脸好好洗一洗！”“那个人就不是一个正儿八经的回回，不避人地拿着～瓶瓶子喝个不停。” 注：该词在波斯语里也作为“酒水”的代词。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-bù-dài-zī",
+      "headword": "阿布逮子",
+      "starred": true,
+      "pinyin": "ā bù dài zī",
+      "tonalNotation": "a²¹bu²¹dài²⁴zì²¹",
+      "ipa": "a²¹pu²¹tæ²⁴ts²¹",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语：أبسّت，小净，洁美、干净。",
+          "examples": [
+            "“你稍稍等一下，我的～坏了，我去洗一下。”“礼拜前先要洗～，否则礼拜不被接受。”"
+          ],
+          "notes": "～回族称为“小净”，即每次睡眠、呕吐、出血、大小便之后，礼拜前或平时必须用洁净的水对两便处、双手、鼻、口、头脸及肘、双脚的清洗。该词语波斯语音应读如：阿布逮斯[a²¹pu²¹tæ²⁴s²¹]，而西安回族方言常读“斯”为“子”，这种语音变化在许多外来语，尤其是阿拉伯、波斯语中很常见。“逮斯”是波斯语手。"
+        }
+      ],
+      "rawText": "【阿布逮子★】ā bù dài zī（a²¹bu²¹dài²⁴zì²¹）[a²¹pu²¹tæ²⁴ts²¹]波斯语：أبسّت，小净，洁美、干净。例：“你稍稍等一下，我的～坏了，我去洗一下。”“礼拜前先要洗～，否则礼拜不被接受。”注：～回族称为“小净”，即每次睡眠、呕吐、出血、大小便之后，礼拜前或平时必须用洁净的水对两便处、双手、鼻、口、头脸及肘、双脚的清洗。该词语波斯语音应读如：阿布逮斯[a²¹pu²¹tæ²⁴s²¹]，而西安回族方言常读“斯”为“子”，这种语音变化在许多外来语，尤其是阿拉伯、波斯语中很常见。“逮斯”是波斯语手。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "entry-5",
+      "headword": "阿丹",
+      "starred": true,
+      "pinyin": "",
+      "tonalNotation": "亚当",
+      "ipa": "a ⁵³ tā ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语آدم，人祖名。除讲解古兰经或宗教生活时提到圣人名字外，一般生活中此圣名也用于回族人名，由于在汉语译音是两个字，符合汉语习惯，就直接叫阿丹。如“马阿丹、铁阿丹”等。",
+          "examples": [],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿丹★】（亚当）ā dān（a $ ^{53} $dan $ ^{21} $）[a $ ^{53} $tā $ ^{21} $] 阿语آدم，人祖名。除讲解古兰经或宗教生活时提到圣人名字外，一般生活中此圣名也用于回族人名，由于在汉语译音是两个字，符合汉语习惯，就直接叫阿丹。如“马阿丹、铁阿丹”等。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan0.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎ-ěr-shì",
+      "headword": "阿尔世",
+      "starred": true,
+      "pinyin": "ǎ ěr shì",
+      "tonalNotation": "a \\underset{\\cdot}{s}\\underset{\\cdot}{3}\\underset{\\cdot}{e}\\underset{\\cdot}{r}\\underset{\\cdot}{2}\\underset{\\cdot}{1} shì \\underset{\\cdot}{2}\\underset{\\cdot}{1} ",
+      "ipa": "a \\underset{\\cdot}{s}\\underset{\\cdot}{3}\\underset{\\cdot}{e}\\underset{\\cdot}{r}\\underset{\\cdot}{2}\\underset{\\cdot}{1}\\underset{\\cdot}{s}\\underset{\\cdot}{2}\\underset{\\cdot}{1} ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语，宝座、王榻。",
+          "examples": [
+            "“真主在～上命令天仙监察顿亚（世界）好歹的营干（工作）。”“真主的～在七层天外。”"
+          ],
+          "notes": "～专指真主的，虚指并非确指，只是个概念。"
+        }
+      ],
+      "rawText": "【阿尔世★】ǎ ěr shì（a $ \\underset{\\cdot}{s}\\underset{\\cdot}{3}\\underset{\\cdot}{e}\\underset{\\cdot}{r}\\underset{\\cdot}{2}\\underset{\\cdot}{1} $ shì $ \\underset{\\cdot}{2}\\underset{\\cdot}{1} $）[a $ \\underset{\\cdot}{s}\\underset{\\cdot}{3}\\underset{\\cdot}{e}\\underset{\\cdot}{r}\\underset{\\cdot}{2}\\underset{\\cdot}{1}\\underset{\\cdot}{s}\\underset{\\cdot}{2}\\underset{\\cdot}{1} $] 阿拉伯语，宝座、王榻。例：“真主在～上命令天仙监察顿亚（世界）好歹的营干（工作）。”“真主的～在七层天外。” 注：～专指真主的，虚指并非确指，只是个概念。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-fū-lā",
+      "headword": "阿夫拉",
+      "starred": true,
+      "pinyin": "ā fū lā",
+      "tonalNotation": "a ⁵³ fu ²¹ la ²¹ ",
+      "ipa": "a ⁵³ fu ²¹ la ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语eعشوراع，“赎罪日”、“得救日”伊斯兰教节日，回历每年的一月十日。",
+          "examples": [
+            "“每年的～，我们清真寺里都要熬杂豆稀饭。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "由于在这一日，西安回族多吃各种豆子熬煮的稀饭，被引申、演化为不能安稳吃的饭食，或者饥不择食。",
+          "examples": [
+            "“你稍等一会，叫（让）我把这些~吃完。”“在争吵中我吃了这些～！”"
+          ],
+          "notes": "波斯语本音应读“eshura”。"
+        }
+      ],
+      "rawText": "【阿夫拉★】ā fū lā（a $ ^{53} $fu $ ^{21} $la $ ^{21} $）[a $ ^{53} $fu $ ^{21} $la $ ^{21} $] ①波斯语eعشوراع，“赎罪日”、“得救日”伊斯兰教节日，回历每年的一月十日。例：“每年的～，我们清真寺里都要熬杂豆稀饭。”②由于在这一日，西安回族多吃各种豆子熬煮的稀饭，被引申、演化为不能安稳吃的饭食，或者饥不择食。例：“你稍等一会，叫（让）我把这些~吃完。”“在争吵中我吃了这些～！”注：波斯语本音应读“eshura”。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-gè",
+      "headword": "阿个",
+      "starred": false,
+      "pinyin": "ā gè",
+      "tonalNotation": "a ⁵³ ge ²¹ ",
+      "ipa": "a ⁵³ k \\gamma²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "疑问代词：哪个、谁。",
+          "examples": [
+            "“刚才～人想发言？现在请说。”“这些垃圾是～人倒在这里的？”“这事到底是～干的，我看没调查落实前还不一定是～。”"
+          ],
+          "notes": "见“阿”条。"
+        }
+      ],
+      "rawText": "【阿个】ā gè（a $ ^{53} $ge $ ^{21} $）[a $ ^{53} $k $ \\gamma^{21} $]疑问代词：哪个、谁。例：“刚才～人想发言？现在请说。”“这些垃圾是～人倒在这里的？”“这事到底是～干的，我看没调查落实前还不一定是～。” 注：见“阿”条。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "đgōng",
+      "headword": "阿公",
+      "starred": false,
+      "pinyin": "đgōng",
+      "tonalNotation": "a²¹gong²¹",
+      "ipa": "a²¹kuan²¹",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "丈夫的父亲。",
+          "examples": [
+            "“这位是我～。”“我是个知识分子，我丈夫小时就受我～的影响和潜移默化就爱读书。”“他～比他大（父亲）大三岁。”"
+          ],
+          "notes": "汉族背称，回族可对外人说，但不可直呼。"
+        }
+      ],
+      "rawText": "【阿公】đgōng（a²¹gong²¹）[a²¹kuan²¹] 丈夫的父亲。例：“这位是我～。”“我是个知识分子，我丈夫小时就受我～的影响和潜移默化就爱读书。”“他～比他大（父亲）大三岁。” 注：汉族背称，回族可对外人说，但不可直呼。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-pó",
+      "headword": "阿婆",
+      "starred": false,
+      "pinyin": "ā pó",
+      "tonalNotation": "a²¹po²⁴²¹",
+      "ipa": "a²¹p²⁴²⁴²¹",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "农妇。",
+          "examples": [
+            "“今个早起来了几个乡里（农村）～到西五台赶庙会去咧，一个个头上盖个手帕，手里拿个包包。”“他出生时不是在医院，而是在他家由接生的～接生的”。"
+          ],
+          "notes": "过去对农村中老年妇女的称呼，也称接生婆为“接娃的～”。"
+        }
+      ],
+      "rawText": "【阿婆】ā pó（a²¹po²⁴²¹）[a²¹p²⁴²⁴²¹] 农妇。例：“今个早起来了几个乡里（农村）～到西五台赶庙会去咧，一个个头上盖个手帕，手里拿个包包。”“他出生时不是在医院，而是在他家由接生的～接生的”。 注：过去对农村中老年妇女的称呼，也称接生婆为“接娃的～”。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-hēi-rè-tí",
+      "headword": "阿嘿热提",
+      "starred": true,
+      "pinyin": "ā hēi rè tí",
+      "tonalNotation": "a ⁵³ hei ²¹ rai ⁵³ ti ²¹ ",
+      "ipa": "a ⁵³ xei ²¹ z, a ⁴⁴ t ⁴ ;21",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语，后一个，后世。",
+          "examples": [
+            "“你不要今世这样在人前要欺头，～你咋办？”“穆斯林的六大信仰其中一条就是信～的审判。”“相信～的人就守规矩。”"
+          ],
+          "notes": "专指“人类死亡后复生日、清算拷问日”，回族又称“后世”。"
+        }
+      ],
+      "rawText": "【阿嘿热提★】ā hēi rè tí（a $ ^{53} $hei $ ^{21} $rai $ ^{53} $ti $ ^{21} $）[a $ ^{53} $xei $ ^{21} $z, a $ ^{44} $t $ ^{4} $;21]阿拉伯语，后一个，后世。例：“你不要今世这样在人前要欺头，～你咋办？”“穆斯林的六大信仰其中一条就是信～的审判。”“相信～的人就守规矩。” 注：专指“人类死亡后复生日、清算拷问日”，回族又称“后世”。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-hōng",
+      "headword": "阿訇",
+      "starred": true,
+      "pinyin": "ā hōng",
+      "tonalNotation": "a ²¹ hōng ²⁴ ",
+      "ipa": "a ²¹ xuān ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "uyghur"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯、维吾尔语 Ẋخونغ，老师，学者。回族专指在清真寺里开学，传授宗教知识，培养宗教人才和主持坊上坊民日常宗教生活事务的伊斯兰学者为阿訇。现在也对一般在清真寺里学习的学生统称为阿訇。",
+          "examples": [
+            "“今天李～给咱们讲阿拉伯语的词法结构。”“我请寺里八个念经的～，你好好准备一席饭菜善待善待～们。”“这个人就是我们寺里的二～，他也很有学问。老阿訇不在时他就能代替。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿訇★】ā hōng（a $ ^{21} $hōng $ ^{24} $）[a $ ^{21} $xuān $ ^{24} $]波斯、维吾尔语 Ẋخونغ，老师，学者。回族专指在清真寺里开学，传授宗教知识，培养宗教人才和主持坊上坊民日常宗教生活事务的伊斯兰学者为阿訇。现在也对一般在清真寺里学习的学生统称为阿訇。例：“今天李～给咱们讲阿拉伯语的词法结构。”“我请寺里八个念经的～，你好好准备一席饭菜善待善待～们。”“这个人就是我们寺里的二～，他也很有学问。老阿訇不在时他就能代替。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-lī",
+      "headword": "阿里",
+      "starred": true,
+      "pinyin": "ā lī",
+      "tonalNotation": "ěr²¹li²¹-⁵³",
+      "ipa": "ər²¹li²¹-⁵³",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语人名。",
+          "examples": [
+            "“～巴巴是最早追随穆圣信仰伊斯兰的人。”“大哥你看看我家～在不在你家。”“～你不要玩了，把作业做完在耍。”“～这娃不但有教门，孝敬父母，功课学习上还是学校的尖子生。”"
+          ],
+          "notes": "～，穆圣时代第四位大贤，穆圣的堂弟，女婿。后人由于敬仰多用其名为后代起名字，回族人称这种阿拉伯名字为“经名”，在口语方言中又读“阿”为“尔”，因而又作“尔里”。"
+        }
+      ],
+      "rawText": "【阿里★】ā lī（ěr²¹li²¹-⁵³）[ər²¹li²¹-⁵³] 阿语人名。例：“～巴巴是最早追随穆圣信仰伊斯兰的人。”“大哥你看看我家～在不在你家。”“～你不要玩了，把作业做完在耍。”“～这娃不但有教门，孝敬父母，功课学习上还是学校的尖子生。”注：～，穆圣时代第四位大贤，穆圣的堂弟，女婿。后人由于敬仰多用其名为后代起名字，回族人称这种阿拉伯名字为“经名”，在口语方言中又读“阿”为“尔”，因而又作“尔里”。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "textalfinleft",
+      "headword": "阿林",
+      "starred": true,
+      "pinyin": "$ \\text{alfin}\\left",
+      "tonalNotation": "\\text{er}²¹\\text{lin}²¹\\right",
+      "ipa": "\\text{er}²¹\\text{li}\\text{e}²¹\\right",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "$阿拉伯，知识、学问。",
+          "examples": [
+            "“那个阿訇了不得，～深得很。八大～样样精通，经、书两家学问！”“我们尊重阿訇首先是尊重他的～。”“李教授是一个为人谦和的～，他把他的～毫无保留的教授给了学生。”“再有～人品不行，还是不顶啥（不起作用）！”"
+          ],
+          "notes": "此语应读作“尔林” $ \\left[\\text{er}^{21}\\text{li}\\text{e}^{21}\\right] $，现在很多书面写作“阿林”。作动名词用。"
+        }
+      ],
+      "rawText": "【阿林★】 $ \\text{alfin}\\left(\\text{er}^{21}\\text{lin}^{21}\\right)\\left[\\text{er}^{21}\\text{li}\\text{e}^{21}\\right] $阿拉伯，知识、学问。例：“那个阿訇了不得，～深得很。八大～样样精通，经、书两家学问！”“我们尊重阿訇首先是尊重他的～。”“李教授是一个为人谦和的～，他把他的～毫无保留的教授给了学生。”“再有～人品不行，还是不顶啥（不起作用）！”注：此语应读作“尔林” $ \\left[\\text{er}^{21}\\text{li}\\text{e}^{21}\\right] $，现在很多书面写作“阿林”。作动名词用。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-mài-lí",
+      "headword": "阿迈离",
+      "starred": true,
+      "pinyin": "ā mài lí",
+      "tonalNotation": "a ³⁵ mai ²¹ li ²⁴ ",
+      "ipa": "a ⁵³ māe ²¹ li ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "“谎言”。",
+          "examples": [
+            "“你咋能信那种人的话，他说得全部是～，没有一句话是真的！”“哎，什么优惠大酬宾活动，净是～，买家没有卖家精！”"
+          ],
+          "notes": "此语也经常简化为“阿迈”，语气急促含有警示。例：“不敢上当，全是～！”"
+        }
+      ],
+      "rawText": "【阿迈离★】ā mài lí（a $ ^{35} $mai $ ^{21} $li $ ^{24} $）[a $ ^{53} $māe $ ^{21} $li $ ^{24} $]“谎言”。例：“你咋能信那种人的话，他说得全部是～，没有一句话是真的！”“哎，什么优惠大酬宾活动，净是～，买家没有卖家精！” 注：此语也经常简化为“阿迈”，语气急促含有警示。例：“不敢上当，全是～！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-mī-nǎi",
+      "headword": "阿弥乃",
+      "starred": true,
+      "pinyin": "ā mī nǎi",
+      "tonalNotation": "a²¹ mi²⁴ nai²¹",
+      "ipa": "a²¹ mi²⁴ na²¹",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语 أمن，祈祷词“祈求安拉恩准”“祈求安拉接受”。",
+          "examples": [
+            "“仁慈的真主啊，你宽恕我们，恩赐我们健康与和平吧！～！”“一人做杜瓦伊（祷词），众人念～，托重求慈！”"
+          ],
+          "notes": "每当送读完《古兰经》，尤其是首章或做完祈祷之后均要诵读此祈祷词。在接受别人祝福时也要回报该祈祷语，即：祈真主同样回赐你！"
+        }
+      ],
+      "rawText": "【阿弥乃★】ā mī nǎi（a²¹ mi²⁴ nai²¹）[a²¹ mi²⁴ na²¹] 阿拉伯语 أمن，祈祷词“祈求安拉恩准”“祈求安拉接受”。例：“仁慈的真主啊，你宽恕我们，恩赐我们健康与和平吧！～！”“一人做杜瓦伊（祷词），众人念～，托重求慈！” 注：每当送读完《古兰经》，尤其是首章或做完祈祷之后均要诵读此祈祷词。在接受别人祝福时也要回报该祈祷语，即：祈真主同样回赐你！",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-mù-rén",
+      "headword": "阿目人",
+      "starred": true,
+      "pinyin": "ā mù rén",
+      "tonalNotation": "a ²⁴ mu ²¹ ren ²⁴ ",
+      "ipa": "a ²⁴ mu ²¹ z \\bar{e} ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "非学者的一般人，没有学问的人。",
+          "examples": [
+            "“我是一个～，话说的不对，请你不要计较。”“～也要学习，学习在穆斯林身上是主命（真主命令人要学习。）”"
+          ],
+          "notes": "“阿目”阿拉伯语 علم普通人，一般人；“人”汉语，用来注释、强调 علم ；引申为谦虚语——没知识的人，无知的人。 注：又作“尔目人”"
+        }
+      ],
+      "rawText": "【阿目人★】ā mù rén（a $ ^{24} $mu $ ^{21} $ren $ ^{24} $）[a $ ^{24} $mu $ ^{21} $z $ \\bar{e} $ $ ^{24} $] 非学者的一般人，没有学问的人。例：“我是一个～，话说的不对，请你不要计较。”“～也要学习，学习在穆斯林身上是主命（真主命令人要学习。）” 注：“阿目”阿拉伯语 علم普通人，一般人；“人”汉语，用来注释、强调 علم ；引申为谦虚语——没知识的人，无知的人。 注：又作“尔目人”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-nài",
+      "headword": "阿奈",
+      "starred": true,
+      "pinyin": "ā nài",
+      "tonalNotation": "a ⁵³ nai ⁴⁴ ",
+      "ipa": "a ⁵³ nae ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "指非穆斯林。",
+          "examples": [
+            "“人家本身就是～，肯定吃席要喝酒，那是那些人的习惯。”“他是个～，你说经文他听不懂。”"
+          ],
+          "notes": "～来自于波斯语“那一个、别一个”，西安回族引申为其他的，另外的，异教徒，逐渐固定为对非穆斯林的简称。"
+        }
+      ],
+      "rawText": "【阿奈★】ā nài（a $ ^{53} $nai $ ^{44} $）[a $ ^{53} $nae $ ^{44} $] 指非穆斯林。例：“人家本身就是～，肯定吃席要喝酒，那是那些人的习惯。”“他是个～，你说经文他听不懂。” 注：～来自于波斯语“那一个、别一个”，西安回族引申为其他的，另外的，异教徒，逐渐固定为对非穆斯林的简称。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-sī",
+      "headword": "阿斯",
+      "starred": true,
+      "pinyin": "ā sī",
+      "tonalNotation": "a²¹sì⁴⁴",
+      "ipa": "a²¹sì⁴⁴",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "西安回族自治",
+          "examples": [
+            "“非典时期要求人使用流水洗手，没有交叉污染的预防方法，～们原来用壶水就是那样洗的，讲究卫生原本\n就是～的优良传统。”"
+          ],
+          "notes": "～，汉阿组合，“阿”汉语某些称谓（昵称）的前缀，“斯”阿拉伯语“穆斯林”的汉语简化，“斯”字在此读作去声。"
+        }
+      ],
+      "rawText": "【阿斯★】ā sī（a²¹sì⁴⁴）[a²¹sì⁴⁴] 西安回族自治例：“非典时期要求人使用流水洗手，没有交叉污染的预防方法，～们原来用壶水就是那样洗的，讲究卫生原本\n就是～的优良传统。” 注：～，汉阿组合，“阿”汉语某些称谓（昵称）的前缀，“斯”阿拉伯语“穆斯林”的汉语简化，“斯”字在此读作去声。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan1.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-sī-máng",
+      "headword": "阿斯茫",
+      "starred": true,
+      "pinyin": "ā sī máng",
+      "tonalNotation": "a ⁵³ si ²¹ mang ²⁴ ",
+      "ipa": "a ⁵³ s ²¹ man ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯、波斯语 ىسماء天空。",
+          "examples": [
+            "“今个黑咧（今天晚上），～上的星星咋这么的亮？”“你看，～上有一架飞机”“～上乌云翻滚呢，好像要下雨呢！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿斯茫★】ā sī máng（a $ ^{53} $si $ ^{21} $mang $ ^{24} $）[a $ ^{53} $s $ ^{21} $man $ ^{24} $]阿拉伯、波斯语 ىسماء天空。例：“今个黑咧（今天晚上），～上的星星咋这么的亮？”“你看，～上有一架飞机”“～上乌云翻滚呢，好像要下雨呢！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-sǎo",
+      "headword": "阿嫂",
+      "starred": false,
+      "pinyin": "ā sǎo",
+      "tonalNotation": "a²¹ sao²¹",
+      "ipa": "a²¹ sau⁴⁴",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "称丈夫的嫂子。",
+          "examples": [
+            "“这位是我~。”“那个小个子女人是她的二～。”“他三个哥都结了婚，他就有三个～。”"
+          ],
+          "notes": "汉族背称，而回族当面对人可以称谓。"
+        }
+      ],
+      "rawText": "【阿嫂】ā sǎo（a²¹ sao²¹）[a²¹ sau⁴⁴] 称丈夫的嫂子。例：“这位是我~。”“那个小个子女人是她的二～。”“他三个哥都结了婚，他就有三个～。” 注：汉族背称，而回族当面对人可以称谓。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-tǎ-ér-shuō-ā-tǎ-ér-liào",
+      "headword": "阿塌儿说,阿塌儿撂",
+      "starred": false,
+      "pinyin": "ā tǎ ér shuō, ā tǎ ér liào",
+      "tonalNotation": "a ²¹ ter ²¹ she ²¹ .a ²¹ ter ²¹ liao ⁴⁴ ",
+      "ipa": "a ²¹ .th ²¹ er s ²¹ a ²¹ .th ²¹ er liau ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "为了避免是非，说过的话只能放在心里，不能再提起，不能对外宣扬。",
+          "examples": [
+            "“今天的话咱俩人～，装在心里，不许对旁人再说！” “有句话～，我说得对你就考虑，说的不对，就当我没说，好吧？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿塌儿说,阿塌儿撂】ā tǎ ér shuō, ā tǎ ér liào (a $ ^{21} $ter $ ^{21} $she $ ^{21} $.a $ ^{21} $ter $ ^{21} $liao $ ^{44} $) [a $ ^{21} $.th $ ^{21} $er s $ ^{21} $a $ ^{21} $.th $ ^{21} $er liau $ ^{44} $]为了避免是非，说过的话只能放在心里，不能再提起，不能对外宣扬。例：“今天的话咱俩人～，装在心里，不许对旁人再说！” “有句话～，我说得对你就考虑，说的不对，就当我没说，好吧？”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎ-tar",
+      "headword": "阿塌儿",
+      "starred": false,
+      "pinyin": "ǎ tar",
+      "tonalNotation": "a²⁻²tar²⁻²]",
+      "ipa": "a²⁻².t²⁻²",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "）[a²⁻².t²⁻²]哪里。",
+          "examples": [
+            "“你连你自己在～死都不知道，可给别人算命呢！”“大嫂大赶早你到～去呀？”“你把乃本书放在～咧，我就是找不见！”"
+          ],
+          "notes": "“阿”字是“哪”的音变字，是“哪”减去声母n的结果。近代汉语有“那塌儿”一词是“哪里”的意思。元代杂剧《潇湘夜雨》第二回：“但不知那（哪）塌儿里把我磨勒死！”"
+        }
+      ],
+      "rawText": "【阿塌儿】ǎ tar（a²⁻²tar²⁻²]）[a²⁻².t²⁻²]哪里。例：“你连你自己在～死都不知道，可给别人算命呢！”“大嫂大赶早你到～去呀？”“你把乃本书放在～咧，我就是找不见！”\n\n注：“阿”字是“哪”的音变字，是“哪”减去声母n的结果。近代汉语有“那塌儿”一词是“哪里”的意思。元代杂剧《潇湘夜雨》第二回：“但不知那（哪）塌儿里把我磨勒死！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎ-wǎ-zǐ",
+      "headword": "阿瓦子",
+      "starred": true,
+      "pinyin": "ǎ wǎ zǐ",
+      "tonalNotation": "a ⁵³ va ²¹ zǐ ²¹ ",
+      "ipa": "a ⁵³ va ²¹ ts ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语：او！，话语。",
+          "examples": [
+            "“常言道，言多必失，你的～咋那么多？往后少说话！”“让他～减条（少说），不要说话！”“他的～太多咧，人听着觉得啰嗦。”"
+          ],
+          "notes": "～，波斯语中有“歌声、歌唱”的含义，回族由于信仰一般比较轻视歌唱，因而该～当做“说话”使用时，略含有警告，鄙视的语气，如：“你立即停止你的～，你的～有伤害他人之嫌疑！”“你的～太繁（多），不要再说咧！”"
+        }
+      ],
+      "rawText": "【阿瓦子★】ǎ wǎ zǐ（a $ ^{53} $va $ ^{21} $zǐ $ ^{21} $）[a $ ^{53} $va $ ^{21} $ts $ ^{21} $]波斯语：او！，话语。例：“常言道，言多必失，你的～咋那么多？往后少说话！”“让他～减条（少说），不要说话！”“他的～太多咧，人听着觉得啰嗦。” 注：～，波斯语中有“歌声、歌唱”的含义，回族由于信仰一般比较轻视歌唱，因而该～当做“说话”使用时，略含有警告，鄙视的语气，如：“你立即停止你的～，你的～有伤害他人之嫌疑！”“你的～太繁（多），不要再说咧！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎ-yē-tí",
+      "headword": "阿耶提",
+      "starred": true,
+      "pinyin": "ǎ yē tí",
+      "tonalNotation": "a ⁵³ yē ⁵³ ti ²¹ ",
+      "ipa": "a ⁵³ i e⁴⁴ t ¹ i ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语 أبو，《古兰经》中的章节经文，真主的明证、迹象。",
+          "examples": [
+            "“今天我给大家诵读一段～，大家共同学习。”“禁止饮酒是《古兰经》里～的明文禁戒命令，穆斯林必须遵从。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿耶提★】ǎ yē tí（a $ ^{53} $yē $ ^{53} $ti $ ^{21} $）[a $ ^{53} $i $ e^{44} $t $ ^{1} $i $ ^{21} $]阿拉伯语 أبو，《古兰经》中的章节经文，真主的明证、迹象。例：“今天我给大家诵读一段～，大家共同学习。”“禁止饮酒是《古兰经》里～的明文禁戒命令，穆斯林必须遵从。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-zā",
+      "headword": "阿杂",
+      "starred": false,
+      "pinyin": "ā zā",
+      "tonalNotation": "a²¹za²¹",
+      "ipa": "a²¹tāa²¹",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "忧愁。",
+          "examples": [
+            "“他正为这些为难事～得很呢！”“你不要～，你光（只）～也解决不了问题。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿杂】ā zā (a²¹za²¹) [a²¹tāa²¹]忧愁。例：“他正为这些为难事～得很呢！”“你不要～，你光（只）～也解决不了问题。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-zā-liǎn",
+      "headword": "阿杂脸",
+      "starred": true,
+      "pinyin": "ā zā liǎn",
+      "tonalNotation": "a²¹za²¹liàn⁵³",
+      "ipa": "a²¹tsa²¹liā⁵³",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "愁容满面，脸色愁云的人。",
+          "examples": [
+            "“你遇事不要～，～大家看着都不痛快。”“你看乃个（那个）～来了，大家不要说这些惹人不高兴地话。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【阿杂脸★】ā zā liǎn (a²¹za²¹liàn⁵³) [a²¹tsa²¹liā⁵³]愁容满面，脸色愁云的人。\n\n例：“你遇事不要～，～大家看着都不痛快。”“你看乃个（那个）～来了，大家不要说这些惹人不高兴地话。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-lǐ",
+      "headword": "阿里",
+      "starred": false,
+      "pinyin": "ā lǐ",
+      "tonalNotation": "a ²¹ lì ²¹⁻⁵³ ",
+      "ipa": "a ²¹ lì ²¹⁻⁵³ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "疑问代词，哪里、哪儿。",
+          "examples": [
+            "“只听见声音，不见人，你到底到在～？”“这半天不见你，你到底去了～？”“大哥你急急火火到~去呀？”"
+          ],
+          "notes": "～也做“阿呢”，哪里、哪儿的意思。例：“你老先生～来的火气（怒气）发到我这里了？”“你这香蕉是在～买的？”"
+        }
+      ],
+      "rawText": "【阿里】ā lǐ（a $ ^{21} $lì $ ^{21-53} $）[a $ ^{21} $lì $ ^{21-53} $]疑问代词，哪里、哪儿。例：“只听见声音，不见人，你到底到在～？”“这半天不见你，你到底去了～？”“大哥你急急火火到~去呀？”注：～也做“阿呢”，哪里、哪儿的意思。例：“你老先生～来的火气（怒气）发到我这里了？”“你这香蕉是在～买的？”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-shì-de",
+      "headword": "啊是的",
+      "starred": false,
+      "pinyin": "ā shì de",
+      "tonalNotation": "a ²¹ si ²¹ di ⁰ ",
+      "ipa": "a ²¹ si ²¹ ti",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "疑问句，那是的。",
+          "examples": [
+            "“你说书在桌子上，～？没有麽！”“你说他在房里呢，～？”"
+          ],
+          "notes": "“阿”当“哪”用，即：哪是？～一般用在反问句里。“是”读阴平。"
+        }
+      ],
+      "rawText": "【啊是的】ā shì de（a $ ^{21} $si $ ^{21} $di $ ^{0} $）[a $ ^{21} $si $ ^{21} $ti] 疑问句，那是的。例：“你说书在桌子上，～？没有麽！”“你说他在房里呢，～？” 注：“阿”当“哪”用，即：哪是？～一般用在反问句里。“是”读阴平。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ā-yí-gè",
+      "headword": "哪一个",
+      "starred": false,
+      "pinyin": "ā yí gè",
+      "tonalNotation": "a yī gè ⁴⁴ ",
+      "ipa": "a ⁵³ i ²¹ kʰ ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "谁，哪一个、哪个。",
+          "examples": [
+            "“你是～？”“当初没有他出来说话，你们～是牛牛娃敢出来说一句话？”“面对高手挑战，他们～敢出来应战？”"
+          ],
+          "notes": "西安回族一般在言语中不用“哪一个”“哪个”来询问，而用“阿”替代“哪”。例：“刚才是～从这儿经过？”“这么多的玩具你究竟要～？”“你们～不同意就举手。”"
+        }
+      ],
+      "rawText": "【哪一个】ā yí gè（a yī gè $ ^{44} $）[a $ ^{53} $i $ ^{21} $kʰ $ ^{44} $] 谁，哪一个、哪个。例：“你是～？”“当初没有他出来说话，你们～是牛牛娃敢出来说一句话？”“面对高手挑战，他们～敢出来应战？” 注：西安回族一般在言语中不用“哪一个”“哪个”来询问，而用“阿”替代“哪”。例：“刚才是～从这儿经过？”“这么多的玩具你究竟要～？”“你们～不同意就举手。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ái",
+      "headword": "换（捱）",
+      "starred": false,
+      "pinyin": "ái",
+      "tonalNotation": "eai ²⁴ ",
+      "ipa": "næ ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "遭受、经受。例“他怫打架，老土路过时头上糊里糊涂~了一棍。”“他从小~他妈的打，~怕了，他妈一声喊娃浑身打颤。”“他~了一顿诀（骂）。”“他今天~骂又~打咧。”“他没有眼色，每天都要~领导的批评。”",
+          "examples": [],
+          "notes": "该词语常常作为前缀和后面的词连接在一起，表示经受了某种行为，如：~打、~骂、~批评、~头子、~戳。“挨”字声母不同西安汉族，汉族发[n]声母，读[næ $ ^{24} $]，回族发[ŋ]读[ŋæ $ ^{24} $]。这也是西安回汉语音的显著区别的一个音节。"
+        }
+      ],
+      "rawText": "【换（捱）】ái（eai $ ^{24} $）[næ $ ^{24} $] 遭受、经受。例“他怫打架，老土路过时头上糊里糊涂~了一棍。”“他从小~他妈的打，~怕了，他妈一声喊娃浑身打颤。”“他~了一顿诀（骂）。”“他今天~骂又~打咧。”“他没有眼色，每天都要~领导的批评。” 注：该词语常常作为前缀和后面的词连接在一起，表示经受了某种行为，如：~打、~骂、~批评、~头子、~戳。“挨”字声母不同西安汉族，汉族发[n]声母，读[næ $ ^{24} $]，回族发[ŋ]读[ŋæ $ ^{24} $]。这也是西安回汉语音的显著区别的一个音节。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "ái-bù-qǐ",
+      "headword": "挨不起",
+      "starred": false,
+      "pinyin": "ái bù qǐ",
+      "tonalNotation": "eai ²⁴ bu ²¹ qiē ⁵³ ",
+      "ipa": "næ ²⁴ pu ²¹ kì ⁵³ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "经不起事、经受不住。",
+          "examples": [
+            "“给人家一句话，好汉子不要那样做～的事情。”“会打人，自己～打不行啊，要能挨起打才能成。”“你～就不要和旁人开玩笑，爱和别人开玩笑就不要～，肉只需你笑话别人，不许别人拿你开玩笑！”"
+          ],
+          "notes": "元、明词语也为“挨不起”。《西游记》21回：“你外公手儿重重的只怕你～这一棒啊。”“起”读如“且”[kì $ ^{53} $]。"
+        }
+      ],
+      "rawText": "【挨不起】ái bù qǐ（eai $ ^{24} $bu $ ^{21} $qiē $ ^{53} $）[næ $ ^{24} $pu $ ^{21} $kì $ ^{53} $]经不起事、经受不住。例：“给人家一句话，好汉子不要那样做～的事情。”“会打人，自己～打不行啊，要能挨起打才能成。”“你～就不要和旁人开玩笑，爱和别人开玩笑就不要～，肉只需你笑话别人，不许别人拿你开玩笑！”注：元、明词语也为“挨不起”。《西游记》21回：“你外公手儿重重的只怕你～这一棒啊。”“起”读如“且”[kì $ ^{53} $]。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-cuò",
+      "headword": "挨挫",
+      "starred": false,
+      "pinyin": "āi cuò",
+      "tonalNotation": "eai ²⁴ cuò ²¹ ",
+      "ipa": "næ ²⁴ pf ^{h} u ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "经受打击、挫折。",
+          "examples": [
+            "text-align: center;",
+            "imgs/img_in_image_box_1606_11_1859_1018.jpg",
+            "Image",
+            "13%"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨挫】āi cuò（eai $ ^{24} $cuò $ ^{21} $）[næ $ ^{24} $pf $ ^{h} $u $ ^{21} $] 经受打击、挫折。例：“这就不是你说话的时间嘛！你这不是寻着～呢？”“他在外头～咧，才知道回头。”\n\n<div style=\"text-align: center;\"><img src=\"imgs/img_in_image_box_1606_11_1859_1018.jpg\" alt=\"Image\" width=\"13%\" /></div>",
+      "images": [
+        "imgs/img_in_image_box_1606_11_1859_1018.jpg"
+      ],
+      "sourceFile": "pages_1-7_scan2.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-bǎi-bǎi-ér",
+      "headword": "挨摆摆儿",
+      "starred": false,
+      "pinyin": "āi bǎi bǎi ér",
+      "tonalNotation": "eai ²¹ bai ⁵³ bair ⁵³ ",
+      "ipa": "næ ²¹ pæ ⁵³ .pær",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "一个一个，按顺序。",
+          "examples": [
+            "“不要急，不要挤，排好队，大家～领门票。”“一个个～走，不要乱了！”\n\n“你们～排好队往进走，要有秩序！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨摆摆儿】āi bǎi bǎi ér（eai $ ^{21} $bai $ ^{53} $bair $ ^{53} $）[næ $ ^{21} $pæ $ ^{53} $.pær]一个一个，按顺序。例：“不要急，不要挤，排好队，大家～领门票。”“一个个～走，不要乱了！”\n\n“你们～排好队往进走，要有秩序！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-dài-bù",
+      "headword": "埃待布",
+      "starred": true,
+      "pinyin": "āi dài bù",
+      "tonalNotation": "ai²¹dai⁴⁴bu²¹",
+      "ipa": "æ²¹tæ⁴⁴pu²¹",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语 أذب，礼节、顺序、规矩。",
+          "examples": [
+            "“我们的言行一定要遵守～，那是我们素质的体现。”“不经主人允许不得进入家门，不说祝安词不得对人说话，这都是～。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【埃待布★】āi dài bù（ai²¹dai⁴⁴bu²¹）[æ²¹tæ⁴⁴pu²¹] 阿拉伯语 أذب，礼节、顺序、规矩。例：“我们的言行一定要遵守～，那是我们素质的体现。”“不经主人允许不得进入家门，不说祝安词不得对人说话，这都是～。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-lái-bǎi-lái",
+      "headword": "挨来摆来",
+      "starred": true,
+      "pinyin": "āi lái bǎi lái",
+      "tonalNotation": "ai ²¹ lai ⁴⁴ bai ²¹ lai ⁴⁴ ",
+      "ipa": "ae ²¹ lai ⁴⁴ pae ²¹ lae ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语，不坚定，摇摆不定、翻来覆去，多指立场不稳。",
+          "examples": [
+            "“不敢信那个人的话，那是个~。”“咱办事一定要说一是一，说二是二。决不能～言行不一！”“你一向办事～没有立场两面倒，不可靠。”"
+          ],
+          "notes": "《耳目德汉译精华》中有“哎雷哎来”意即漱口时水在喉咙来回翻滚的声音；在阿拉伯语中有 $ \\underline{\\text{乞辞}} $系动词，和～一样是回族口语中的转音，读为～。在西安回坊语言中侧专指那些行为不一，墙头草式的人物来回变化，出尔反尔反复无常的言行。"
+        }
+      ],
+      "rawText": "【挨来摆来★】āi lái bǎi lái（ai $ ^{21} $lai $ ^{44} $bai $ ^{21} $lai $ ^{44} $）[ae $ ^{21} $lai $ ^{44} $pae $ ^{21} $lae $ ^{44} $]波斯语，不坚定，摇摆不定、翻来覆去，多指立场不稳。例：“不敢信那个人的话，那是个~。”“咱办事一定要说一是一，说二是二。决不能～言行不一！”“你一向办事～没有立场两面倒，不可靠。” 注：《耳目德汉译精华》中有“哎雷哎来”意即漱口时水在喉咙来回翻滚的声音；在阿拉伯语中有 $ \\underline{\\text{乞辞}} $系动词，和～一样是回族口语中的转音，读为～。在西安回坊语言中侧专指那些行为不一，墙头草式的人物来回变化，出尔反尔反复无常的言行。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-jiā",
+      "headword": "挨家儿",
+      "starred": false,
+      "pinyin": "āi jiā",
+      "tonalNotation": "eai ²¹ jia ²¹ er",
+      "ipa": "næ ²¹ tier ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "对手。",
+          "examples": [
+            "“他的那两下根本不是你的～，只要你一上场他肯定败下来。”“他的文章就不是王先生的～，无论是文采还是结构都不是～。”“他摔跤不是你的～，一交手他就知道不行！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨家儿】āi jiā（eai $ ^{21} $jia $ ^{21} $er）[næ $ ^{21} $tier $ ^{21} $] 对手。例：“他的那两下根本不是你的～，只要你一上场他肯定败下来。”“他的文章就不是王先生的～，无论是文采还是结构都不是～。”“他摔跤不是你的～，一交手他就知道不行！”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-jū",
+      "headword": "挨居",
+      "starred": false,
+      "pinyin": "āi jū",
+      "tonalNotation": "eai ²¹ ju ²¹ ",
+      "ipa": "næ ²¹ ty ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "接朋交友。",
+          "examples": [
+            "“你看兀个娃～的人物，就知道他是个啥货色。”“人以群分，物以类聚，好人～的善良辈，坏人自然～的是恶人。”“他从小就都～了些好学生，到大学更是～些学者教授。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨居】āi jū（eai $ ^{21} $ju $ ^{21} $）[næ $ ^{21} $ty $ ^{21} $] 接朋交友。例：“你看兀个娃～的人物，就知道他是个啥货色。”“人以群分，物以类聚，好人～的善良辈，坏人自然～的是恶人。”“他从小就都～了些好学生，到大学更是～些学者教授。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎi-juē",
+      "headword": "挨诀",
+      "starred": false,
+      "pinyin": "ǎi juē",
+      "tonalNotation": "ài ²⁴ jue ²⁴ ",
+      "ipa": "næ ²⁴ tyε ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "受别人叱责、谩骂。",
+          "examples": [
+            "“你不要在这里说粗话找着～！”“人家偷牛你拔撅，你真是一个～的脸。”“我～还不是为了你！”“今天你～就是因为作业没做完，他～因为不听奶奶的话。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨诀】ǎi juē（ài $ ^{24} $jue $ ^{24} $）[næ $ ^{24} $tyε $ ^{24} $] 受别人叱责、谩骂。例：“你不要在这里说粗话找着～！”“人家偷牛你拔撅，你真是一个～的脸。”“我～还不是为了你！”“今天你～就是因为作业没做完，他～因为不听奶奶的话。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "eái-rì-juē",
+      "headword": "挨日诀",
+      "starred": false,
+      "pinyin": "eái rì juē",
+      "tonalNotation": "ai ²⁴ rì ²¹ jue ²⁴ ",
+      "ipa": "ŋæ ²¹ zʰ ²¹ tʰyɛ ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "遭受斥责、训诫、辱骂。",
+          "examples": [
+            "“小刘在他自己父亲面前～并不丢人，因为父亲骂他是爱他。”“他经常在领导跟前～，就是因为他没眼色。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨日诀】eái rì juē（ai $ ^{24} $rì $ ^{21} $jue $ ^{24} $）[ŋæ $ ^{21} $zʰ $ ^{21} $tʰyɛ $ ^{21} $] 遭受斥责、训诫、辱骂。例：“小刘在他自己父亲面前～并不丢人，因为父亲骂他是爱他。”“他经常在领导跟前～，就是因为他没眼色。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-mén-qí-chá",
+      "headword": "挨门齐茬",
+      "starred": false,
+      "pinyin": "āi mén qí chá",
+      "tonalNotation": "eai ²¹ men ²⁴⁻²¹ qì ²⁴ car ²⁴ ",
+      "ipa": "næ ²¹ me ²⁴⁻²¹ tɕhɪ ²⁴ tsh ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "全部，一个接一个，一个不漏。",
+          "examples": [
+            "“他打咧人还想躲呢！给我～的搜，不信找不出来他！”“你和谁来找谁去，不能这样～的胡骂大家，你不能惹众人怒啊！”“这次收水费～的进去收，一家都不得缺欠。”“今天的事你们可～都签了字，以后可不能反悔！”"
+          ],
+          "notes": "也说“挨门齐户”。"
+        }
+      ],
+      "rawText": "【挨门齐茬】āi mén qí chá（eai $ ^{21} $men $ ^{24-21} $qì $ ^{24} $car $ ^{24} $）[næ $ ^{21} $me $ ^{24-21} $tɕhɪ $ ^{24} $tsh $ ^{24} $]全部，一个接一个，一个不漏。例：“他打咧人还想躲呢！给我～的搜，不信找不出来他！”“你和谁来找谁去，不能这样～的胡骂大家，你不能惹众人怒啊！”“这次收水费～的进去收，一家都不得缺欠。”“今天的事你们可～都签了字，以后可不能反悔！”\n\n注：也说“挨门齐户”。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-xīn",
+      "headword": "挨心",
+      "starred": false,
+      "pinyin": "āi xīn",
+      "tonalNotation": "eai²¹xīn²¹",
+      "ipa": "næ²¹ciē²¹",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "贴心、舒心，畅快。",
+          "examples": [
+            "“我的这个女儿和我就是～地很，” “今天这顿饭吃的～地很！” “咱西安回回就是吃羊肉泡馍最～，其它饮食都不行。” “他家里和他最～的不是老婆，而是女儿。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【挨心】āi xīn（eai²¹xīn²¹） [næ²¹ciē²¹] 贴心、舒心，畅快。例：“我的这个女儿和我就是～地很，” “今天这顿饭吃的～地很！” “咱西安回回就是吃羊肉泡馍最～，其它饮食都不行。” “他家里和他最～的不是老婆，而是女儿。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-mǐ-ěr",
+      "headword": "埃米尔",
+      "starred": true,
+      "pinyin": "āi mǐ ěr",
+      "tonalNotation": "ai ²¹ mi ⁵³ er ²¹ ",
+      "ipa": "æ ²¹ mi ⁵³ er ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语，领导、带头人、首领。",
+          "examples": [
+            "“今天我们大家出去，首先选一个～出来领导大家。”“我们这个小组的～是伊斯麻乃（人名子），他热心公益事业。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【埃米尔★】āi mǐ ěr（ai $ ^{21} $mi $ ^{53} $er $ ^{21} $）[æ $ ^{21} $mi $ ^{53} $er $ ^{21} $] 阿拉伯语，领导、带头人、首领。例：“今天我们大家出去，首先选一个～出来领导大家。”“我们这个小组的～是伊斯麻乃（人名子），他热心公益事业。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "ái-bǎn-ban",
+      "headword": "呆板板",
+      "starred": false,
+      "pinyin": "ái bǎn ban",
+      "tonalNotation": "ngai ²⁴ ban ⁵³ ban ⁵³ ",
+      "ipa": "næ ²⁴ på ⁵³ .på",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "做事极其不灵活，死板。",
+          "examples": [
+            "“他就是个～，你咋能叫他去处理复杂的事情？”“你学习要举一反三，不能～死搬硬套。”"
+          ],
+          "notes": "该词有时最后带有儿化。"
+        }
+      ],
+      "rawText": "【呆板板】ái bǎn ban（ngai $ ^{24} $ban $ ^{53} $ban $ ^{53} $）[næ $ ^{24} $på $ ^{53} $.på] 做事极其不灵活，死板。例：“他就是个～，你咋能叫他去处理复杂的事情？”“你学习要举一反三，不能～死搬硬套。” 注：该词有时最后带有儿化。",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "ái-1",
+      "headword": "呆",
+      "starred": false,
+      "pinyin": "ái",
+      "tonalNotation": "eai ²⁴ ",
+      "ipa": "næ ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "呆板。",
+          "examples": [
+            "“这个人没有坏心，就是心眼～得很，办事不灵活，常得罪人。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "肯定。",
+          "examples": [
+            "“穆斯林每天五次礼拜那是～的，你即就是做不到也不能否认。”“我昨天看见的那个人～的是王老师他爱人。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【呆】ái（eai $ ^{24} $）[næ $ ^{24} $]①呆板。例：“这个人没有坏心，就是心眼～得很，办事不灵活，常得罪人。”②肯定。例：“穆斯林每天五次礼拜那是～的，你即就是做不到也不能否认。”“我昨天看见的那个人～的是王老师他爱人。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "ái-de",
+      "headword": "呆的",
+      "starred": false,
+      "pinyin": "ái de",
+      "tonalNotation": "eai ²⁴ di ⁰ ",
+      "ipa": "næ ²⁴ .ti",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "肯定，固定不变的、绝对的。",
+          "examples": [
+            "“你放心事情绝对是～，不会有变！”“这女人～是他媳妇，不信你叫过来问问。”“这个把儿在墙上是个～，拧不下来。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【呆的】ái de（eai $ ^{24} $di $ ^{0} $）[næ $ ^{24} $.ti] 肯定，固定不变的、绝对的。例：“你放心事情绝对是～，不会有变！”“这女人～是他媳妇，不信你叫过来问问。”“这个把儿在墙上是个～，拧不下来。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "ái-dìng",
+      "headword": "呆定",
+      "starred": false,
+      "pinyin": "ái dìng",
+      "tonalNotation": "eai ²⁴ dìng ⁴⁴ ",
+      "ipa": "næ ²⁴ tiŋ ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "肯定。",
+          "examples": [
+            "“你今年绝对要升职，这是~的，没有一点麻达。”“我欠你的钱，月底我～给你还。”“你不要急，他十点钟~来。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【呆定】ái dìng（eai $ ^{24} $dìng $ ^{44} $）[næ $ ^{24} $tiŋ $ ^{44} $] 肯定。例：“你今年绝对要升职，这是~的，没有一点麻达。”“我欠你的钱，月底我～给你还。”“你不要急，他十点钟~来。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-dù",
+      "headword": "哀毒",
+      "starred": true,
+      "pinyin": "āi dù",
+      "tonalNotation": "ai ⁵³ du ²¹ ",
+      "ipa": "æ ⁵³ tu ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "动物体内的淋巴，也称白肉，穆斯林所禁止的不可食用的部位。",
+          "examples": [
+            "“你把肉里的～全部去掉，那是不可以吃的，也不能卖给买主。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "引申为心胸狭窄行为歹毒者。",
+          "examples": [
+            "“肉上～吃不得，人中～交不得！”“几个人是个～，最好不要和他交往。”"
+          ],
+          "notes": "～是流行于西安回族中的一个特定语汇，是指牛羊体内的淋巴，也称“白肉”。可见回族先民很早就在生活与生产中发现淋巴的抵抗毒素作用，是不可使用，食之有毒。古时人们不知“淋巴”二字，只知有毒，因而称为～，"
+        }
+      ],
+      "rawText": "【哀毒★】āi dù（ai $ ^{53} $du $ ^{21} $）[æ $ ^{53} $tu $ ^{21} $]①动物体内的淋巴，也称白肉，穆斯林所禁止的不可食用的部位。例：“你把肉里的～全部去掉，那是不可以吃的，也不能卖给买主。”②引申为心胸狭窄行为歹毒者。例：“肉上～吃不得，人中～交不得！”“几个人是个～，最好不要和他交往。” 注：～是流行于西安回族中的一个特定语汇，是指牛羊体内的淋巴，也称“白肉”。可见回族先民很早就在生活与生产中发现淋巴的抵抗毒素作用，是不可使用，食之有毒。古时人们不知“淋巴”二字，只知有毒，因而称为～，",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-hǎi-dí-sūn-nǎi",
+      "headword": "爱海迪孙乃",
+      "starred": true,
+      "pinyin": "āi hǎi dí sūn nǎi",
+      "tonalNotation": "ai ⁴⁴ hai ²¹ di ²¹ sun ⁵³ nai ²¹⁻⁴⁴ ",
+      "ipa": "a ⁴⁴ xæ ²¹ ti ²¹ su \\bar{e} ⁵³ nae ²¹ /nae ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语 $ \\underline{\\text{السنة}} $，正统派。",
+          "examples": [
+            "“我们中国的穆斯林不应分裂闹教派，因为我们实际上都是～。”“凡是追随大伊玛目（首领）者都是～正统派。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【爱海迪孙乃★】āi hǎi dí sūn nǎi（ai $ ^{44} $hai $ ^{21} $di $ ^{21} $sun $ ^{53} $nai $ ^{21-44} $）[a $ ^{44} $xæ $ ^{21} $ti $ ^{21} $su $ \\bar{e} $ $ ^{53} $nae $ ^{21} $/nae $ ^{44} $]阿语 $ \\underline{\\text{السنة}} $，正统派。例：“我们中国的穆斯林不应分裂闹教派，因为我们实际上都是～。”“凡是追随大伊玛目（首领）者都是～正统派。”",
+      "images": [],
+      "sourceFile": "pages_1-7_scan3.md",
+      "sourcePages": "1-7",
+      "sourcePdf": "1-7.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "āi-zhé-lì",
+      "headword": "哀哲利",
+      "starred": true,
+      "pinyin": "āi zhé lì",
+      "tonalNotation": "ai²¹zhe²⁴⁴li²¹",
+      "ipa": "æ²¹ts²⁴⁴li²¹",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语、波斯语 🔍 期满、期限。引申为：生命终期，也简化为“哀哲”。",
+          "examples": [
+            "“你这么凶恶，没咧（难道）你还想要谁的～吗？”“健康时不干善功，等到～临近就来不及了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【哀哲利★】āi zhé lì（ai²¹zhe²⁴⁴li²¹）[æ²¹ts²⁴⁴li²¹] 阿拉伯语、波斯语 🔍 期满、期限。引申为：生命终期，也简化为“哀哲”。例：“你这么凶恶，没咧（难道）你还想要谁的～吗？”“健康时不干善功，等到～临近就来不及了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ǎi-má-ní",
+      "headword": "艾麻尼",
+      "starred": true,
+      "pinyin": "ǎi má ní",
+      "tonalNotation": "ai²¹ma²⁴ni²¹",
+      "ipa": "æ²¹ma²⁴ni²¹",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语，平静、平安、安逸。",
+          "examples": [
+            "“现在的日子很～，一定要珍惜。”“最近我的病好多了，身体～的很！”“公园里～得很，空气新鲜、宁静温馨。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【艾麻尼★】ǎi má ní（ai²¹ma²⁴ni²¹）[æ²¹ma²⁴ni²¹] 阿拉伯语，平静、平安、安逸。例：“现在的日子很～，一定要珍惜。”“最近我的病好多了，身体～的很！”“公园里～得很，空气新鲜、宁静温馨。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ài-lǐ-hā-mù-dǔ-lín-liǎ-xī",
+      "headword": "艾里哈目睹林俩西",
+      "starred": true,
+      "pinyin": "ài lǐ hā mù dǔ lín liǎ xī",
+      "tonalNotation": "ai ⁴⁴ li ²¹ hr ²¹ mu ²¹ du ²¹ lin ⁵³ lia ²⁴ xi ²¹ ",
+      "ipa": "ae ⁴⁴ li ²¹ xr ²¹ mu ²¹ tu ²¹ liě ⁵³ lia ²⁴ ci ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语（الحمد）万赞全归真主。",
+          "examples": [
+            "“～，我最近一切都好者呢，知感！”“～，谢谢你今天的招待，太好了。”“～，咱们上车吧！”"
+          ],
+          "notes": "～，“最全美的赞颂只属于真主。”是回族最为常用的一句尊贵的赞美词，凡是美好的事物，言语中都要诵读该词语。"
+        }
+      ],
+      "rawText": "【艾里哈目睹林俩西★】ài lǐ hā mù dǔ lín liǎ xī（ai $ ^{44} $li $ ^{21} $hr $ ^{21} $mu $ ^{21} $du $ ^{21} $lin $ ^{53} $lia $ ^{24} $xi $ ^{21} $）[ae $ ^{44} $li $ ^{21} $xr $ ^{21} $mu $ ^{21} $tu $ ^{21} $liě $ ^{53} $lia $ ^{24} $ci $ ^{21} $] 阿拉伯语（الحمد）万赞全归真主。例：“～，我最近一切都好者呢，知感！”“～，谢谢你今天的招待，太好了。”“～，咱们上车吧！”注：～，“最全美的赞颂只属于真主。”是回族最为常用的一句尊贵的赞美词，凡是美好的事物，言语中都要诵读该词语。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ài-mǎ-nǎi-tí",
+      "headword": "艾玛乃提",
+      "starred": true,
+      "pinyin": "ài mǎ nǎi tí",
+      "tonalNotation": "ai ⁵³ ma ²¹ nai ⁴⁴ ti ²¹ ",
+      "ipa": "æ ⁵³ ma ²¹ næ ⁴⁴ ti ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语，托付、责任、担子。",
+          "examples": [
+            "“儿女的婚姻是父母的～。”“孝敬父母是每个穆斯林子女必须交还的～”“交还欠人的债，是穆斯林的～。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【艾玛乃提★】ài mǎ nǎi tí（ai $ ^{53} $ma $ ^{21} $nai $ ^{44} $ti $ ^{21} $）[æ $ ^{53} $ma $ ^{21} $næ $ ^{44} $ti $ ^{21} $] 阿语，托付、责任、担子。例：“儿女的婚姻是父母的～。”“孝敬父母是每个穆斯林子女必须交还的～”“交还欠人的债，是穆斯林的～。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-tài",
+      "headword": "按抬",
+      "starred": true,
+      "pinyin": "àn tài",
+      "tonalNotation": "ngān ⁵³ tai ²¹ ",
+      "ipa": "ŋā ⁵³ t ^{h} æ ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "“按抬曳若后”（离开）的简化口语，具有急促、提示的口气。",
+          "examples": [
+            "“你不看大家都对你有意见，还不赶快～！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按抬★】àn tài（ngān $ ^{53} $tai $ ^{21} $）[ŋā $ ^{53} $t $ ^{h} $æ $ ^{21} $] “按抬曳若后”（离开）的简化口语，具有急促、提示的口气。例：“你不看大家都对你有意见，还不赶快～！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-tái-ye-ruò-hòu",
+      "headword": "按拾曳若后",
+      "starred": true,
+      "pinyin": "àn tái ye ruò hòu",
+      "tonalNotation": "ngan ⁵³ tai ²¹ ye ²¹ ruo ²⁴ hou ²¹ ",
+      "ipa": "nā ⁵³ t hā ²¹ i e ²¹ zù ²⁴ xr ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语 尔，你离开、走开。",
+          "examples": [
+            "“～、～！都啥时候了？你还不动身！”\n\n“哎！你在这里别说话，还不赶快～！”\n\n常用于命令、催促口气中，也可分开为两部分使用，即：“按拾”和“曳若后”，含义不变。"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按拾曳若后★】àn tái ye ruò hòu （ngan $ ^{53} $ tai $ ^{21} $ ye $ ^{21} $ ruo $ ^{24} $ hou $ ^{21} $）[nā $ ^{53} $ t hā $ ^{21} $ i e $ ^{21} $ zù $ ^{24} $ xr $ ^{21} $] 阿语 尔，你离开、走开。例：“～、～！都啥时候了？你还不动身！”\n\n“哎！你在这里别说话，还不赶快～！”\n\n常用于命令、催促口气中，也可分开为两部分使用，即：“按拾”和“曳若后”，含义不变。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-sài-liǎ-mù-ér-lái-yī-kù-mù",
+      "headword": "按赛俩目而来伊库睦",
+      "starred": true,
+      "pinyin": "àn sài liǎ mù ér lái yī kù mù",
+      "tonalNotation": "an ⁵³ sai ²¹ lia ²⁴ mu ²¹ er ²¹ lai ²⁴ yi ²¹ ku ⁴⁴ mu ²¹ ",
+      "ipa": "ā ⁵³ sā ²¹ lia ²⁴ mu ²¹ er ²¹ lae ²⁴ i ²¹ k ⁴⁴ mu ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语, เสلام عليكم, 祝安词。汉译为“真主赐福你平安”。是穆斯林见面时的祝福语，对方一定要回答：“真主的平安也赐福予你。”",
+          "examples": [],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按赛俩目而来伊库睦★】àn sài liǎ mù ér lái yī kù mù (an $ ^{53} $sai $ ^{21} $lia $ ^{24} $mu $ ^{21} $er $ ^{21} $lai $ ^{24} $yi $ ^{21} $ku $ ^{44} $mu $ ^{21} $) [ā $ ^{53} $sā $ ^{21} $lia $ ^{24} $mu $ ^{21} $er $ ^{21} $lae $ ^{24} $i $ ^{21} $k $ ^{44} $mu $ ^{21} $] 阿拉伯语, เสلام عليكم, 祝安词。汉译为“真主赐福你平安”。是穆斯林见面时的祝福语，对方一定要回答：“真主的平安也赐福予你。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-yóu-bù",
+      "headword": "按尤布",
+      "starred": true,
+      "pinyin": "àn yóu bù",
+      "tonalNotation": "ngān ⁵³ you ²⁴ bu ²¹ ",
+      "ipa": "ŋā ⁵³ iːu ²⁴ pu ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿语 عوب，圣人名，后人多做人名。也称“阿尤布”。",
+          "examples": [
+            "“你小儿子～马上就中学毕业了，时间真快！”“～阿訇今天早上帮布达（晨礼）后，就乘车去了宁夏。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按尤布★】àn yóu bù（ngān $ ^{53} $you $ ^{24} $bu $ ^{21} $） [ŋā $ ^{53} $iːu $ ^{24} $pu $ ^{21} $] 阿语 عوب，圣人名，后人多做人名。也称“阿尤布”。例：“你小儿子～马上就中学毕业了，时间真快！”“～阿訇今天早上帮布达（晨礼）后，就乘车去了宁夏。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-shuō",
+      "headword": "按说",
+      "starred": false,
+      "pinyin": "àn shuō",
+      "tonalNotation": "ean ⁴⁴ she ²¹ ",
+      "ipa": "ŋā ⁴⁴ s ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "按道理说，论起来。",
+          "examples": [
+            "“不要看他胡子长，～论辈分他还要把我叫巴巴（爷爷）呢。”“～今天你不应该来，因为是你休假日。”“现在不要提～，～的事太多，而都不～办！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按说】àn shuō（ean $ ^{44} $she $ ^{21} $）[ŋā $ ^{44} $s $ ^{21} $]按道理说，论起来。例：“不要看他胡子长，～论辈分他还要把我叫巴巴（爷爷）呢。”“～今天你不应该来，因为是你休假日。”“现在不要提～，～的事太多，而都不～办！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-zhù",
+      "headword": "按住",
+      "starred": false,
+      "pinyin": "àn zhù",
+      "tonalNotation": "ean ⁴⁴ zhu ²¹⁻⁴⁴ ",
+      "ipa": "nǎ ⁴⁴ pfu ²¹⁻⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "压制、压住。",
+          "examples": [
+            "“当你想耍脾气时，你一定要先把它～冷静冷静再说。”“你把乃只猫先给我～，不要让跑咧。”“你把伤口～不要让流血，我给你取止血药！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【按住】àn zhù（ean $ ^{44} $zhu $ ^{21-44} $）[nǎ $ ^{44} $pfu $ ^{21-44} $] 压制、压住。例：“当你想耍脾气时，你一定要先把它～冷静冷静再说。”“你把乃只猫先给我～，不要让跑咧。”“你把伤口～不要让流血，我给你取止血药！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-ān-r",
+      "headword": "安安儿",
+      "starred": false,
+      "pinyin": "ān ān r",
+      "tonalNotation": "ean ²¹ eanr ²¹ ",
+      "ipa": "ŋā ²¹ , ŋər",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "静静的，平静、安稳。",
+          "examples": [
+            "“你们～地在这儿等待，不许闹事”“你要再不～的，我可就要叫人了！”“吃完药你～地不要折腾，休息一会儿就不疼了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安安儿】ān ān r(ean $ ^{21} $eanr $ ^{21} $) [ŋā $ ^{21} $, ŋər] 静静的，平静、安稳。例：“你们～地在这儿等待，不许闹事”“你要再不～的，我可就要叫人了！”“吃完药你～地不要折腾，休息一会儿就不疼了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-dùn",
+      "headword": "安顿",
+      "starred": false,
+      "pinyin": "ān dùn",
+      "tonalNotation": "ean ²¹ dùn ⁴⁴⁻²¹ ",
+      "ipa": "nā ²¹ tuē ⁴⁴⁻²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "安排、安置、处理。",
+          "examples": [
+            "“今个会议的一切我都~好了。”“你等一等，我把娃们（孩子）~~就来。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安顿】ān dùn（ean $ ^{21} $dùn $ ^{44-21} $）[nā $ ^{21} $tuē $ ^{44-21} $] 安排、安置、处理。例：“今个会议的一切我都~好了。”“你等一等，我把娃们（孩子）~~就来。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-dài-gē-yì-diǎn",
+      "headword": "安岱搁一点",
+      "starred": true,
+      "pinyin": "ān dài gē yì diǎn",
+      "tonalNotation": "ngān dài ge yì diàn",
+      "ipa": "nā 53",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "tæ 44\n\nkǐyì tiā r 波斯汉语组合，少许、很少、一点。",
+          "examples": [
+            "“吃吧，饭不多，看着一碗米，实际只是～。”“今年厂里给的年终奖只是～一点点，少得很。”"
+          ],
+          "notes": "“安岱搁”，波斯语 意思是：一点点、少许、不多；后面是汉语注解。西安回坊常在外来语后加汉语译意，或者外来语音译，此组合形式后面很多，充分记录了回族先民学习汉语以及波斯等外来语与华语交流融合的进程，是一个历史遗存的保留。"
+        }
+      ],
+      "rawText": "【安岱搁一点★】ān dài gē yì diǎn（ngān dài ge yì diàn）[nā 53] tæ 44\n\nkǐyì tiā r 波斯汉语组合，少许、很少、一点。例：“吃吧，饭不多，看着一碗米，实际只是～。”“今年厂里给的年终奖只是～一点点，少得很。”注：“安岱搁”，波斯语 意思是：一点点、少许、不多；后面是汉语注解。西安回坊常在外来语后加汉语译意，或者外来语音译，此组合形式后面很多，充分记录了回族先民学习汉语以及波斯等外来语与华语交流融合的进程，是一个历史遗存的保留。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-lā",
+      "headword": "安拉",
+      "starred": true,
+      "pinyin": "ān lā",
+      "tonalNotation": "an ²¹ la ²¹ ",
+      "ipa": "ā ²¹ la ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic",
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "阿拉伯语：真主。",
+          "examples": [
+            "“～是宇宙万物的独一造化者。”“仁慈的～是我的养育者，我祈求～宽恕我，恩佑我！”“你虔诚的祈求～一样善功，～一定应答。”"
+          ],
+          "notes": "～直音译为“安劳乎”，此为轻读音的汉译。安拉是伊斯兰教所信仰宇宙万物独一的创造者，维护者、调养者；他不以任何被造物为形象，人类绝对不可定夺；他是天地万物的主宰。回族汉语称～为真主，阿拉伯语称为安劳乎，波斯语称为胡达[xw $ ^{21} $ta $ ^{24} $]。"
+        }
+      ],
+      "rawText": "【安拉★】ān lā（an $ ^{21} $la $ ^{21} $）[ā $ ^{21} $la $ ^{21} $] 阿拉伯语：真主。例：“～是宇宙万物的独一造化者。”“仁慈的～是我的养育者，我祈求～宽恕我，恩佑我！”“你虔诚的祈求～一样善功，～一定应答。” 注：～直音译为“安劳乎”，此为轻读音的汉译。安拉是伊斯兰教所信仰宇宙万物独一的创造者，维护者、调养者；他不以任何被造物为形象，人类绝对不可定夺；他是天地万物的主宰。回族汉语称～为真主，阿拉伯语称为安劳乎，波斯语称为胡达[xw $ ^{21} $ta $ ^{24} $]。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-shun",
+      "headword": "安分",
+      "starred": false,
+      "pinyin": "ān shun",
+      "tonalNotation": "ngan ²¹ fen ⁴⁴⁻²¹ ",
+      "ipa": "nā ²¹ fē ⁴⁴⁻²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "安宁、安静、顺从、守规矩。",
+          "examples": [
+            "“这个娃～的很，坐在那里规矩的一点都不乱动，那个娃就一点都不～，跑来跑去影响别人。”“任何一个政府都要求百姓～守纪。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安分】ān shun （ngan $ ^{21} $ fen $ ^{44-21} $）[nā $ ^{21} $ fē $ ^{44-21} $]安宁、安静、顺从、守规矩。例：“这个娃～的很，坐在那里规矩的一点都不乱动，那个娃就一点都不～，跑来跑去影响别人。”“任何一个政府都要求百姓～守纪。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-shùn-shǒu-jì",
+      "headword": "安分守纪",
+      "starred": false,
+      "pinyin": "ān shùn shǒu jì",
+      "tonalNotation": "ean ²¹ fun ²¹ shou ⁵³ jì ⁴⁴ ",
+      "ipa": "nā ²¹ fē ²¹ sǒu ⁵³ tì ⁴⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "遵守法纪，顺从制度。",
+          "examples": [
+            "“铁大妈一家人从古到今都是～老实人，可在文化大革命中因为宰了一头羊，被打成投机倒把分子。”“现在只要你不干为非作歹的坏事，一切～的\n生意都允许你去做。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安分守纪】ān shùn shǒu jì（ean $ ^{21} $ fun $ ^{21} $ shou $ ^{53} $ jì $ ^{44} $）[nā $ ^{21} $ fē $ ^{21} $ sǒu $ ^{53} $ tì $ ^{44} $] 遵守法纪，顺从制度。例：“铁大妈一家人从古到今都是～老实人，可在文化大革命中因为宰了一头羊，被打成投机倒把分子。”“现在只要你不干为非作歹的坏事，一切～的\n生意都允许你去做。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan0.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 1,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-níng",
+      "headword": "安宁",
+      "starred": false,
+      "pinyin": "ān níng",
+      "tonalNotation": "ean ²¹ níng ²⁴⁻²⁵ ",
+      "ipa": "nǎ ²² níng ²⁴⁻²⁵ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "安稳宁静、安生。",
+          "examples": [
+            "“你不要来回跑咧，给我～～～一会儿好不好！”“这娃最近不到处乱跑了，在家能坐住～得多了。”“都是她儿子害得一个家不得～！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安宁】ān níng（ean $ ^{21} $níng $ ^{24-25} $）[nǎ $ ^{22} $níng $ ^{24-25} $]安稳宁静、安生。例：“你不要来回跑咧，给我～～～一会儿好不好！”“这娃最近不到处乱跑了，在家能坐住～得多了。”“都是她儿子害得一个家不得～！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-láo-hū",
+      "headword": "安劳乎",
+      "starred": true,
+      "pinyin": "àn láo hū",
+      "tonalNotation": "an lao hu",
+      "ipa": "ā",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "lau xu]阿语，真主。",
+          "examples": [
+            "“～是至公道的主！”“穆斯林绝对信仰～是独一的全能主宰。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安劳乎★】àn láo hū（an lao hu）[ā]lau xu]阿语，真主。例：“～是至公道的主！”“穆斯林绝对信仰～是独一的全能主宰。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-láo-hū-āi-kè-bài-rè",
+      "headword": "安劳乎埃克拜热",
+      "starred": true,
+      "pinyin": "ān láo hū āi kè bài rè",
+      "tonalNotation": "an lao huai ka bei",
+      "ipa": "ā3",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "lau²⁴ xu²¹æ⁴¹ k²⁰² p²²⁴ z²²] 阿拉伯，是“真主至大”意思，是回族赞颂真主最为常用的一句词语的音译。",
+          "examples": [
+            "“穆斯林要常常诵念～，是对自己信仰的一遍遍刷新！”“这真是奇迹，～～！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安劳乎埃克拜热★】ān láo hū āi kè bài rè (an lao huai ka bei)\n\n[ā3] lau²⁴ xu²¹æ⁴¹ k²⁰² p²²⁴ z²²] 阿拉伯，是“真主至大”意思，是回族赞颂真主最为常用的一句词语的音译。例：“穆斯林要常常诵念～，是对自己信仰的一遍遍刷新！”“这真是奇迹，～～！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-shēng",
+      "headword": "安生",
+      "starred": false,
+      "pinyin": "ān shēng",
+      "tonalNotation": "ngān ²¹ seng ²¹ ",
+      "ipa": "",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "生活安宁、稳定。",
+          "examples": [
+            "“家里最近平安无事，一切都还～。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "精神、行为安定。",
+          "examples": [
+            "“这两天你大嫂还好，没有犯病～着呢。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "安定。",
+          "examples": [
+            "“这件事我去处理，你们都给我～着，谁要乱动出了事你们负责！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安生】ān shēng（ngān $ ^{21} $seng $ ^{21} $）[nā $ ^{21} $sēn $ ^{21} $】①生活安宁、稳定。例：“家里最近平安无事，一切都还～。”②精神、行为安定。例：“这两天你大嫂还好，没有犯病～着呢。”③安定。例：“这件事我去处理，你们都给我～着，谁要乱动出了事你们负责！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-nà",
+      "headword": "安纳",
+      "starred": true,
+      "pinyin": "ān nà",
+      "tonalNotation": "ngān ²⁴ na ²¹ ",
+      "ipa": "ŋā ²⁴ na ²¹ /e ²⁴ na ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "arabic"
+      ],
+      "definitions": [
+        {
+          "meaning": "别人。",
+          "examples": [
+            "“～不想吃，你就要逼着～吃，这不是强迫吗？”“～大家都到了，就你一个人还没有来！”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "我、我们。",
+          "examples": [
+            "“～想了想，还是不去的好。”“这件事～不知道就是不知道，你把～逼死也不知道啊！”"
+          ],
+          "notes": "同“恩纳”，见E部“恩那”条，义同汉语“人家”。～在不同的语境表达的不同意思。"
+        }
+      ],
+      "rawText": "【安纳★】ān nà（ngān $ ^{24} $na $ ^{21} $）[ŋā $ ^{24} $na $ ^{21} $/e $ ^{24} $na $ ^{21} $] 阿语人，那些人、人家。①别人。例：“～不想吃，你就要逼着～吃，这不是强迫吗？”“～大家都到了，就你一个人还没有来！”②我、我们。例：“～想了想，还是不去的好。”“这件事～不知道就是不知道，你把～逼死也不知道啊！” 注：同“恩纳”，见E部“恩那”条，义同汉语“人家”。～在不同的语境表达的不同意思。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-zhēn-ér",
+      "headword": "安贞儿",
+      "starred": true,
+      "pinyin": "ān zhēn ér",
+      "tonalNotation": "ān ⁵³ zhēn ²¹ ",
+      "ipa": "ŋā ⁵³ tsēr ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语，无花果。",
+          "examples": [
+            "“我家后院的～树今年结了满满一树～果子。”“这～是从他家～树上拔的。”“你爱吃～尽管吃，我家有一棵～树结咧一树～。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【安贞儿★】ān zhēn ér (ān $ ^{53} $zhēn $ ^{21} $) [ŋā $ ^{53} $tsēr $ ^{21} $] 波斯语，无花果。例：“我家后院的～树今年结了满满一树～果子。”“这～是从他家～树上拔的。”“你爱吃～尽管吃，我家有一棵～树结咧一树～。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-jiān-fáng",
+      "headword": "鞍间房",
+      "starred": false,
+      "pinyin": "ān jiān fáng",
+      "tonalNotation": "ngān ²¹ jian ²¹ fang ²⁴ ",
+      "ipa": "nā ³¹ tqiā ³¹ fan ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "两坡房。",
+          "examples": [
+            "“他家上房是～，两边是一坡厦房。”“他住的～是上房”"
+          ],
+          "notes": "房顶为两坡的房子，两边屋顶椽子一样长短，均可流雨水。也简称“鞍间”。"
+        }
+      ],
+      "rawText": "【鞍间房】ān jiān fáng（ngān $ ^{21} $ jian $ ^{21} $ fang $ ^{24} $）[nā $ ^{31} $ tqiā $ ^{31} $ fan $ ^{24} $]两坡房。例：“他家上房是～，两边是一坡厦房。”“他住的～是上房” 注：房顶为两坡的房子，两边屋顶椽子一样长短，均可流雨水。也简称“鞍间”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ān-cháng",
+      "headword": "鞍场",
+      "starred": true,
+      "pinyin": "ān cháng",
+      "tonalNotation": "ngān ²¹ zhang ²¹ ",
+      "ipa": "ŋā ²¹ tɟɨŋ ²⁴ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "鞍鞯。",
+          "examples": [
+            "“老话说，人凭衣裳，马凭～，老刘穿上这一身，马上漂亮的多了。”“老爷骑的马的～是雕花的～，清朝的。”"
+          ],
+          "notes": "回族“场”音变如“章”[tɟɨŋ $ ^{21} $]。"
+        }
+      ],
+      "rawText": "【鞍场★】ān cháng（ngān $ ^{21} $zhang $ ^{21} $）[ŋā $ ^{21} $tɟɨŋ $ ^{24} $] 鞍鞯。例：“老话说，人凭衣裳，马凭～，老刘穿上这一身，马上漂亮的多了。”“老爷骑的马的～是雕花的～，清朝的。” 注：回族“场”音变如“章”[tɟɨŋ $ ^{21} $]。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "àn",
+      "headword": "暗",
+      "starred": false,
+      "pinyin": "àn",
+      "tonalNotation": "ngān ⁶³ ",
+      "ipa": "nǎ ⁶³ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "窥视、偷偷探视，很快地一瞥。",
+          "examples": [
+            "“大夫我不打搅病人，让我把病人～一下，成不成？”“你悄悄把娃～一下，看看睡着了没有。”“你贼眉贼眼在这儿～过来～过去，都～啥呢？”"
+          ],
+          "notes": "该词语发上声，并且含有相对较明显的鼻音，音几乎是从鼻腔发出。"
+        }
+      ],
+      "rawText": "【暗】àn（ngān $ ^{63} $）[nǎ $ ^{63} $]窥视、偷偷探视，很快地一瞥。例：“大夫我不打搅病人，让我把病人～一下，成不成？”“你悄悄把娃～一下，看看睡着了没有。”“你贼眉贼眼在这儿～过来～过去，都～啥呢？” 注：该词语发上声，并且含有相对较明显的鼻音，音几乎是从鼻腔发出。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-nē-mā",
+      "headword": "暗呢吗",
+      "starred": true,
+      "pinyin": "àn nē mā",
+      "tonalNotation": "ngān ⁴⁴ ni ²¹ ma ²¹ ",
+      "ipa": "nā ⁴⁴ ni ²¹ ma ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "表示不可能，感叹语。",
+          "examples": [
+            "“没有我的话，他想拿走东西，～！”“你有钱有势就能欺负人，～？”“他没有通过正式会议选举，就想当主任，～呢吗？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【暗呢吗★】àn nē mā（ngān $ ^{44} $ni $ ^{21} $ma $ ^{21} $）[nā $ ^{44} $ni $ ^{21} $ma $ ^{21} $]表示不可能，感叹语。例：“没有我的话，他想拿走东西，～！”“你有钱有势就能欺负人，～？”“他没有通过正式会议选举，就想当主任，～呢吗？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-bàn-wú-qiǎo",
+      "headword": "暗办无悄",
+      "starred": true,
+      "pinyin": "àn bàn wú qiǎo",
+      "tonalNotation": "ngān ⁴⁴ ban ²¹ wu ²⁴ qiao ⁵³ ",
+      "ipa": "nǎ ⁴⁴ pǎ ²¹ vu ²⁴ tài ⁵³ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "形容处事、行为悄无声息，不张扬。",
+          "examples": [
+            "“你看人家马家妹妹～，一点不张扬的考上了清华大学”。“这麽大的事情你咋能私自一个人～的处理呢？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【暗办无悄★】àn bàn wú qiǎo（ngān $ ^{44} $ban $ ^{21} $wu $ ^{24} $qiao $ ^{53} $）[nǎ $ ^{44} $pǎ $ ^{21} $vu $ ^{24} $tài $ ^{53} $]形容处事、行为悄无声息，不张扬。例：“你看人家马家妹妹～，一点不张扬的考上了清华大学”。“这麽大的事情你咋能私自一个人～的处理呢？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "àn-měng-zǐ",
+      "headword": "暗猛子",
+      "starred": false,
+      "pinyin": "àn měng zǐ",
+      "tonalNotation": "ngān ⁴⁴ meng ⁵³ zǐ ²¹ ",
+      "ipa": "nǎ ⁴⁴ mǎn ⁵³ bǐ ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "突然、猛然。",
+          "examples": [
+            "“他～在我背后喊了一声，把我吓了一大跳！”“他也没有打招呼，～立到（站在）我的眼前，惊得我半天没有言传（说话）！”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "万一，偶然。",
+          "examples": [
+            "“你要有两手准备，～他有个变卦也好应付。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【暗猛子】àn měng zǐ（ngān $ ^{44} $meng $ ^{53} $zǐ $ ^{21} $）[nǎ $ ^{44} $mǎn $ ^{53} $bǐ $ ^{21} $] ①突然、猛然。例：“他～在我背后喊了一声，把我吓了一大跳！”“他也没有打招呼，～立到（站在）我的眼前，惊得我半天没有言传（说话）！”②万一，偶然。例：“你要有两手准备，～他有个变卦也好应付。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "áo-jiān",
+      "headword": "熬煎",
+      "starred": false,
+      "pinyin": "áo jiān",
+      "tonalNotation": "ngāo ²¹ jian ²¹ ",
+      "ipa": "nau ²¹ tiā ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "发愁，揪心，操心。",
+          "examples": [
+            "“这娃不学习，把他大（爸）～的头发四十多岁都白完了。”“一家五口人没一个上班，就凭我的那一点点退休工资生活，能不～！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【熬煎】áo jiān（ngāo $ ^{21} $ jian $ ^{21} $）[nau $ ^{21} $ tiā $ ^{21} $]发愁，揪心，操心。例：“这娃不学习，把他大（爸）～的头发四十多岁都白完了。”“一家五口人没一个上班，就凭我的那一点点退休工资生活，能不～！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "áo-yǎn",
+      "headword": "熬眼",
+      "starred": false,
+      "pinyin": "áo yǎn",
+      "tonalNotation": "ngāo ²⁴ nián ⁵³ ",
+      "ipa": "nau ²⁴ niā ⁵³ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "晚上不睡觉，熬夜。",
+          "examples": [
+            "“我昨天～整整一夜，终于把这篇稿子写好了。”“明天考试，今个你早早睡觉，不要～了。”“人家～加班有加班费，你也不睡觉，简直是雌鹪子跟着杏猴～呢，白搭。”“大家都休息都霎～咧，明天再干！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【熬眼】áo yǎn（ngāo $ ^{24} $nián $ ^{53} $）[nau $ ^{24} $niā $ ^{53} $] 晚上不睡觉，熬夜。例：“我昨天～整整一夜，终于把这篇稿子写好了。”“明天考试，今个你早早睡觉，不要～了。”“人家～加班有加班费，你也不睡觉，简直是雌鹪子跟着杏猴～呢，白搭。”“大家都休息都霎～咧，明天再干！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "ào-guō",
+      "headword": "鏊锅",
+      "starred": false,
+      "pinyin": "ào guō",
+      "tonalNotation": "ngāo ⁴⁴ guor ²¹ ",
+      "ipa": "nau ⁴⁴ kur ²¹ ",
+      "section": "A",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "铁或铝制的平底锅，常由于烙烤饦饦和锅盔饦。",
+          "examples": [
+            "“你把～架到锅头上，给咱烙些饦饦饦。”“烙馍要用～，～平地火色均匀，烙的馍不容易烤焦。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【鏊锅】ào guō（ngāo $ ^{44} $guor $ ^{21} $）[nau $ ^{44} $kur $ ^{21} $] 铁或铝制的平底锅，常由于烙烤饦饦和锅盔饦。例：“你把～架到锅头上，给咱烙些饦饦饦。”“烙馍要用～，～平地火色均匀，烙的馍不容易烤焦。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan1.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 2,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-er",
+      "headword": "巴儿",
+      "starred": false,
+      "pinyin": "bā er",
+      "tonalNotation": "br²⁴",
+      "ipa": "pər⁻²⁴",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "拍手，也说“拍巴儿”。",
+          "examples": [
+            "“今天咱辩论中的讲话底下群众～都拍淫（非常多）了。”“俺娃（幼儿）给巴巴（爷爷）拍个～。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "巴掌。",
+          "examples": [
+            "“他轻轻爱着拍了娃一个～，没想到把娃拍疼了。”“一个～拍不响，你不回应咋能打起来？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【巴儿】bā er（br²⁴）[pər⁻²⁴]①拍手，也说“拍巴儿”。例：“今天咱辩论中的讲话底下群众～都拍淫（非常多）了。”“俺娃（幼儿）给巴巴（爷爷）拍个～。”②巴掌。例：“他轻轻爱着拍了娃一个～，没想到把娃拍疼了。”“一个～拍不响，你不回应咋能打起来？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-bā",
+      "headword": "巴巴",
+      "starred": true,
+      "pinyin": "bā bā",
+      "tonalNotation": "ba ⁵³ ba ⁰ ",
+      "ipa": "pa ⁵³ .pa",
+      "section": "B",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语 爷爷、长者，西安回族依然称爷爷为～。",
+          "examples": [
+            "“我～一共有三个儿子，我父亲为大。”“他～为大，我～为二，我俩是叔辈弟兄。”“现在接送孙子上学都是～的任务，～退休咧么。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【巴巴★】bā bā（ba $ ^{53} $ba $ ^{0} $）[pa $ ^{53} $.pa] 波斯语 爷爷、长者，西安回族依然称爷爷为～。例：“我～一共有三个儿子，我父亲为大。”“他～为大，我～为二，我俩是叔辈弟兄。”“现在接送孙子上学都是～的任务，～退休咧么。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-bù-dé",
+      "headword": "巴不得",
+      "starred": true,
+      "pinyin": "bā bù dé",
+      "tonalNotation": "ba ²¹ bu ²¹ dei ²¹ ",
+      "ipa": "pa ²¹ pu ²¹ tei ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "恨不得，非常盼望。",
+          "examples": [
+            "“马大哥～老二不来呢，他不来大家都省得为他烦心，落得清静。”“你～他无常（死亡），可他无常了对你有啥好处？”"
+          ],
+          "notes": "《警世通言·卷十七》“黄生巴不得杜绝马家，正中下怀。”"
+        }
+      ],
+      "rawText": "【巴不得★】bā bù dé （ba $ ^{21} $bu $ ^{21} $dei $ ^{21} $）[pa $ ^{21} $pu $ ^{21} $tei $ ^{21} $] 恨不得，非常盼望。\n\n例：“马大哥～老二不来呢，他不来大家都省得为他烦心，落得清静。”“你～他无常（死亡），可他无常了对你有啥好处？” 注：《警世通言·卷十七》“黄生巴不得杜绝马家，正中下怀。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-hā-ěr",
+      "headword": "巴哈尔",
+      "starred": true,
+      "pinyin": "bā hā ěr",
+      "tonalNotation": "bā ²⁴ har ²¹ ",
+      "ipa": "pa ²⁴ xr ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "波斯语 ꜀팔리 指脾气、怒气。",
+          "examples": [
+            "“今天早起他夫妻俩说话，男人一句话没说好，女人的～就犯了，又拍桌子又骂娃。”“咋了，是不是你的～又犯了？又要胡搅蛮缠！”"
+          ],
+          "notes": "波斯语 ꜀팔리 \n\n原义是“火炉、三伏天、极热”等含义，中国老回回结合汉语思维引申为“怒火、火气、怒气、脾气”等。"
+        }
+      ],
+      "rawText": "【巴哈尔★】bā hā ěr（bā $ ^{24} $har $ ^{21} $）[pa $ ^{24} $xr $ ^{21} $] 波斯语 ꜀팔리 指脾气、怒气。\n\n例：“今天早起他夫妻俩说话，男人一句话没说好，女人的～就犯了，又拍桌子又骂娃。”“咋了，是不是你的～又犯了？又要胡搅蛮缠！” 注：波斯语 ꜀팔리 \n\n原义是“火炉、三伏天、极热”等含义，中国老回回结合汉语思维引申为“怒火、火气、怒气、脾气”等。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-wàng",
+      "headword": "巴望",
+      "starred": true,
+      "pinyin": "bā wàng",
+      "tonalNotation": "ba ²¹ wang ⁴⁴ ",
+      "ipa": "pa ²¹ van ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "期望，盼望。",
+          "examples": [
+            "“大家推举你做寺管会主任，就是～你能为大家说话，管理好清真寺工作。”“你们的对子家（对头、敌人），正～你们弟兄闹矛盾呢，难道你不知道？”“你不要～他能给你办啥事！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【巴望★】bā wàng （ba $ ^{21} $wang $ ^{44} $）[pa $ ^{21} $ van $ ^{44} $] 期望，盼望。例：“大家推举你做寺管会主任，就是～你能为大家说话，管理好清真寺工作。”“你们的对子家（对头、敌人），正～你们弟兄闹矛盾呢，难道你不知道？”“你不要～他能给你办啥事！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-zár",
+      "headword": "巴杂尔",
+      "starred": true,
+      "pinyin": "bā zár",
+      "tonalNotation": "ba ⁵³ zar ²⁴ ",
+      "ipa": "pa ⁵³ ter ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "persian",
+        "turkic"
+      ],
+      "definitions": [
+        {
+          "meaning": "节俭、抠门、吝啬。",
+          "examples": [
+            "“人不敢太～了，你越啬皮（吝啬）越没有钱！”“你一天就知道算小九九，～的不得了！都没人和你来往咧！”“兀个人～的很，你和她不要一起给人送礼。”"
+          ],
+          "notes": "～出之于突厥语 维语、波斯语 沙，集市。由于集市上用钱、购物谨慎，常常要讨价还价，西安回族幽默的演变、引申为抠门、吝啬、用钱手紧小气。"
+        }
+      ],
+      "rawText": "【巴杂尔★】bā zár（ba $ ^{53} $zar $ ^{24} $）[pa $ ^{53} $ter $ ^{24} $]节俭、抠门、吝啬。例：“人不敢太～了，你越啬皮（吝啬）越没有钱！”“你一天就知道算小九九，～的不得了！都没人和你来往咧！”“兀个人～的很，你和她不要一起给人送礼。” 注：～出之于突厥语 维语、波斯语 沙，集市。由于集市上用钱、购物谨慎，常常要讨价还价，西安回族幽默的演变、引申为抠门、吝啬、用钱手紧小气。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-bā-ér",
+      "headword": "疤疤儿",
+      "starred": false,
+      "pinyin": "bā bā ér",
+      "tonalNotation": "ba ²¹ bar ⁰ ",
+      "ipa": "pa ²¹ .per",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "人或动植物身体受伤所结疤痕。",
+          "examples": [
+            "“他腿上的那些～都是当年打日本鬼子时留下的。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "因过失所遗留的把柄、隐私。",
+          "examples": [
+            "“他过去做过些错事，但你也不能动不动就揭别人的～，把自己的痛快建立在别人的伤痛上。”“揭人不揭～（短），打人不打脸面。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【疤疤儿】bā bā ér （ba $ ^{21} $bar $ ^{0} $）[pa $ ^{21} $.per] ①人或动植物身体受伤所结疤痕。例：“他腿上的那些～都是当年打日本鬼子时留下的。”②因过失所遗留的把柄、隐私。例：“他过去做过些错事，但你也不能动不动就揭别人的～，把自己的痛快建立在别人的伤痛上。”“揭人不揭～（短），打人不打脸面。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā",
+      "headword": "粑",
+      "starred": false,
+      "pinyin": "bā",
+      "tonalNotation": "b \\underline{ia}²¹ ",
+      "ipa": "pia ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "粘贴，",
+          "examples": [
+            "“你把乃个（那个）《通知》～到学校门口。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "用手掌击打。",
+          "examples": [
+            "“他暗猛子（突然）在娃的头上～咧一下，把娃疼得吱嘛乱喊。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "胃里搁置不易消化的食物。",
+          "examples": [
+            "“我今天吃了一些江米糕，一下～在心口子（胃部）上咧，这会儿有些顶人（消化不动而胃痛）。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【粑】bā（b $ \\underline{ia}^{21} $）[pia $ ^{21} $]①粘贴，例：“你把乃个（那个）《通知》～到学校门口。”②用手掌击打。例：“他暗猛子（突然）在娃的头上～咧一下，把娃疼得吱嘛乱喊。”③胃里搁置不易消化的食物。例：“我今天吃了一些江米糕，一下～在心口子（胃部）上咧，这会儿有些顶人（消化不动而胃痛）。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-bèi-zi",
+      "headword": "八辈子",
+      "starred": false,
+      "pinyin": "bā bèi zi",
+      "tonalNotation": "bā²¹bei⁴⁴zi²¹",
+      "ipa": "pa²¹pei⁴⁴.ts",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "指好多代，祖辈。",
+          "examples": [
+            "“你这个人的确有些过分，你和他有再大的矛盾，也不能骂人家～”“文革中有些假积极，总以自己～都是穷汉为荣。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "时间很长，很久。",
+          "examples": [
+            "“你看他好像～没有吃过饭，宴席上吃的乃么赖歹（那样狼狈）。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【八辈子】bā bèi zi（bā²¹bei⁴⁴zi²¹）[pa²¹pei⁴⁴.ts]①指好多代，祖辈。例：“你这个人的确有些过分，你和他有再大的矛盾，也不能骂人家～”“文革中有些假积极，总以自己～都是穷汉为荣。”②时间很长，很久。例：“你看他好像～没有吃过饭，宴席上吃的乃么赖歹（那样狼狈）。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-zhá-zǐ",
+      "headword": "八炸子",
+      "starred": false,
+      "pinyin": "bā zhá zǐ",
+      "tonalNotation": "ba ²¹ za ²¹⁻⁴⁴ zi ²¹ ",
+      "ipa": "pa ²¹ tsa ²¹⁻⁴⁴ .tsɪ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "物体炸开或碰成碎片。",
+          "examples": [
+            "“这碗已经摔成～咧，就是粘起来也不能用了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【八炸子】bā zhá zǐ （ba $ ^{21} $za $ ^{21-44} $zi $ ^{21} $）[pa $ ^{21} $tsa $ ^{21-44} $.tsɪ]物体炸开或碰成碎片。例：“这碗已经摔成～咧，就是粘起来也不能用了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-yè-ér-zhà",
+      "headword": "八叶儿炸",
+      "starred": false,
+      "pinyin": "bā yè ér zhà",
+      "tonalNotation": "ba ²¹ yer ²¹ za ⁴⁴ ",
+      "ipa": "pa ²¹ i \\varepsilon r ²¹ sa ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "物体裂开。",
+          "examples": [
+            "“这个壶底都烧成~咧，不能用咧！”“这笼蒸馍个个都蒸成～不好看，可还能吃。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【八叶儿炸】bā yè ér zhà （ba $ ^{21} $yer $ ^{21} $za $ ^{44} $）[pa $ ^{21} $i $ \\varepsilon $r $ ^{21} $sa $ ^{44} $]物体裂开。例：“这个壶底都烧成~咧，不能用咧！”“这笼蒸馍个个都蒸成～不好看，可还能吃。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-dǒu-er-wèng",
+      "headword": "八斗儿瓮",
+      "starred": false,
+      "pinyin": "bā dǒu er wèng",
+      "tonalNotation": "ba ²¹ dour ²¹ weng ⁴⁴ ",
+      "ipa": "pa ²¹ tsur ²¹ uān ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "过去承装米粮的瓦瓮，比较粗壮。引申为形容身材低矮肥胖的人。",
+          "examples": [
+            "“你不敢啥都吃了，你看你都胖成~咧。”"
+          ],
+          "notes": "该词语“斗”多数带有儿化音。"
+        }
+      ],
+      "rawText": "【八斗儿瓮】bā dǒu er wèng（ba $ ^{21} $dour $ ^{21} $weng $ ^{44} $）[pa $ ^{21} $tsur $ ^{21} $uān $ ^{44} $] 过去承装米粮的瓦瓮，比较粗壮。引申为形容身材低矮肥胖的人。例：“你不敢啥都吃了，你看你都胖成~咧。” 注：该词语“斗”多数带有儿化音。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-tóu-er",
+      "headword": "八头儿",
+      "starred": false,
+      "pinyin": "bā tóu er",
+      "tonalNotation": "bā ²¹ tour ²¹ ",
+      "ipa": "pɑ ²¹ thər ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "好几头，许多方面，表示多。",
+          "examples": [
+            "“一个萝卜教你把～都切了，可能不可能？你不要太贪心了。”“你不爱他时，就必然看着他～都不顺眼。”“单位有福利大家都受一点利益，不能叫你一个人～都占上，别人一点都没有。”"
+          ],
+          "notes": "也说“八头子”，义相同。"
+        }
+      ],
+      "rawText": "【八头儿】bā tóu er（bā $ ^{21} $ tour $ ^{21} $）[pɑ $ ^{21} $ thər $ ^{24} $]好几头，许多方面，表示多。例：“一个萝卜教你把～都切了，可能不可能？你不要太贪心了。”“你不爱他时，就必然看着他～都不顺眼。”“单位有福利大家都受一点利益，不能叫你一个人～都占上，别人一点都没有。” 注：也说“八头子”，义相同。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bá",
+      "headword": "拔",
+      "starred": false,
+      "pinyin": "bá",
+      "tonalNotation": "bā²⁴",
+      "ipa": "pɑ²⁴",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "把体内的毒素清除出来。",
+          "examples": [
+            "“你受风寒邪毒，我给你用罐子~~把毒气~~出来就好了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【拔】bá（bā²⁴）[pɑ²⁴]把体内的毒素清除出来。例：“你受风寒邪毒，我给你用罐子~~把毒气~~出来就好了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bá-chū-luó-bo-dài-chū-ní",
+      "headword": "拔出萝卜带出泥",
+      "starred": false,
+      "pinyin": "bá chū luó bo dài chū ní",
+      "tonalNotation": "",
+      "ipa": "",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "bá chū luó bo dài chū ní（ba²²",
+          "examples": [],
+          "notes": ""
+        }
+      ],
+      "rawText": "【拔出萝卜带出泥】bá chū luó bo dài chū ní（ba²²",
+      "images": [],
+      "sourceFile": "pages_8-19_scan2.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 3,
+      "sourcePage": null
+    },
+    {
+      "id": "bá-dú",
+      "headword": "拔毒",
+      "starred": false,
+      "pinyin": "bá dú",
+      "tonalNotation": "ba ²⁴ du ²⁴ ",
+      "ipa": "pa ²⁴ tu ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "使用药物或器械使体内毒气排出。",
+          "examples": [
+            "“这娃体内毒气太大，必须先吃药～，也可以用膏药～。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【拔毒】bá dú（ba $ ^{24} $du $ ^{24} $）[pa $ ^{24} $tu $ ^{24} $]使用药物或器械使体内毒气排出。例：“这娃体内毒气太大，必须先吃药～，也可以用膏药～。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bá-le-luó-bò-dì-tǔ-kuān",
+      "headword": "拔了萝卜地土宽",
+      "starred": false,
+      "pinyin": "bá le luó bò dì tǔ kuān",
+      "tonalNotation": "ba ²⁴ lie ⁰ luo ²⁴ bu ²¹ dì ⁴⁴ tu ²¹ kuan ²¹ ",
+      "ipa": "pa ²⁴ .liě luǒ ²⁴ pu ²¹ ti ⁴⁴ hu ⁵³⁻²¹ khuǎ ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "原意指走掉一个人以后环境就宽松多了，引申为清除多余、异己者。例“～，解决他的问题是关键。”“我知道你们就是多一（多嫌）我一个人，～，我走咧你们都痛快咧。”",
+          "examples": [],
+          "notes": "又作“拔了萝卜地势宽”。"
+        }
+      ],
+      "rawText": "【拔了萝卜地土宽】bá le luó bò dì tǔ kuān（ba $ ^{24} $lie $ ^{0} $luo $ ^{24} $bu $ ^{21} $dì $ ^{44} $tu $ ^{21} $kuan $ ^{21} $）[pa $ ^{24} $ .liě luǒ $ ^{24} $ pu $ ^{21} $ ti $ ^{44} $ hu $ ^{53-21} $khuǎ $ ^{21} $]原意指走掉一个人以后环境就宽松多了，引申为清除多余、异己者。例“～，解决他的问题是关键。”“我知道你们就是多一（多嫌）我一个人，～，我走咧你们都痛快咧。” 注：又作“拔了萝卜地势宽”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ",
+      "headword": "把",
+      "starred": false,
+      "pinyin": "bǎ",
+      "tonalNotation": "bā ²¹ ",
+      "ipa": "p ²¹ /pau ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "用作介词时读作阴平调，与“巴”字同音；口语里读如“包”。",
+          "examples": [
+            "“你～自己不当事回儿，别人也就越不～你当事咧。”“你～娃嬰（别）吓了，要吓了娃你就再～到我家来咧！”“你～吃他的，也～吃我的，回家只吃自己的，也～吃完了，下一顿没啥吃！”"
+          ],
+          "notes": "多数情况下与“巴”字同音，又读如“包”。普通的介词“把”字用于否定句时，～字处在否定词后边，而西安汉族常常用在否定词前边，回族放在前后均可。这大概反映了西安回族当年组成的多样性。这里～就含有“不要”的意思在里边。"
+        }
+      ],
+      "rawText": "【把】bǎ（bā $ ^{21} $）[p $ ^{21} $/pau $ ^{21} $] 用作介词时读作阴平调，与“巴”字同音；口语里读如“包”。例：“你～自己不当事回儿，别人也就越不～你当事咧。”“你～娃嬰（别）吓了，要吓了娃你就再～到我家来咧！”“你～吃他的，也～吃我的，回家只吃自己的，也～吃完了，下一顿没啥吃！” 注：多数情况下与“巴”字同音，又读如“包”。普通的介词“把”字用于否定句时，～字处在否定词后边，而西安汉族常常用在否定词前边，回族放在前后均可。这大概反映了西安回族当年组成的多样性。这里～就含有“不要”的意思在里边。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-ba-er",
+      "headword": "把把儿",
+      "starred": false,
+      "pinyin": "bà ba er",
+      "tonalNotation": "ba ⁴⁴ bar ⁰ ",
+      "ipa": "pa ⁴⁴ .par",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "最后的，用过的，剩下的。",
+          "examples": [
+            "“～饭里有若基（福祉）呢，快吃了不要糟蹋。”儿歌：“谁学我的～话，他妈养个月月娃，月月娃会走咧，他妈肚里可有咧！”"
+          ],
+          "notes": "～话，别人说过的话。例：你说的这些都是他说过的～话，没意思。你说自己的话，不要老鹦鹉学舌说别人的～话。"
+        }
+      ],
+      "rawText": "【把把儿】bà ba er （ba $ ^{44} $bar $ ^{0} $）[pa $ ^{44} $.par] ①最后的，用过的，剩下的。例：“～饭里有若基（福祉）呢，快吃了不要糟蹋。”儿歌：“谁学我的～话，他妈养个月月娃，月月娃会走咧，他妈肚里可有咧！” 注：～话，别人说过的话。例：你说的这些都是他说过的～话，没意思。你说自己的话，不要老鹦鹉学舌说别人的～话。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-bǎ-er",
+      "headword": "把把儿",
+      "starred": false,
+      "pinyin": "bǎ bǎ er",
+      "tonalNotation": "ba ⁴⁴ bar ²¹ ",
+      "ipa": "pa ⁴⁴ .pər",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "最小。",
+          "examples": [
+            "“会都开到～了，他才到会，老板能高兴吗？”“他是他家的～娃，他上面都是哥哥姐姐。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "手把儿。",
+          "examples": [
+            "“你用手把铁锅的～抓住，端过来。”“你捏住壶～。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把把儿】bǎ bǎ er（ba $ ^{44} $bar $ ^{21} $）[pa $ ^{44} $.pər]②最小。例：“会都开到～了，他才到会，老板能高兴吗？”“他是他家的～娃，他上面都是哥哥姐姐。”②手把儿。例：“你用手把铁锅的～抓住，端过来。”“你捏住壶～。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-ba-fàn",
+      "headword": "把把饭",
+      "starred": false,
+      "pinyin": "bà ba fàn",
+      "tonalNotation": "ba ⁴⁴ bar ⁰ fan ⁴⁴ ",
+      "ipa": "pa ⁴⁴ .per fā ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "剩饭、吃剩下的饭菜。",
+          "examples": [
+            "“吃饭不要剩～，既浪费又养成不良习惯。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把把饭】bà ba fàn（ba $ ^{44} $bar $ ^{0} $fan $ ^{44} $） [pa $ ^{44} $.per fā $ ^{44} $]剩饭、吃剩下的饭菜。例：“吃饭不要剩～，既浪费又养成不良习惯。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-ba-wá",
+      "headword": "把把娃",
+      "starred": false,
+      "pinyin": "bà ba wá",
+      "tonalNotation": "ba ⁴⁴ bar ²¹ va ⁴⁴ ",
+      "ipa": "pa ⁴⁴ .per ²¹ va ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "最小的孩子。",
+          "examples": [
+            "“老六是他家的～，从小就受他父亲娇惯。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把把娃】bà ba wá（ba $ ^{44} $bar $ ^{21} $va $ ^{44} $）[pa $ ^{44} $.per $ ^{21} $va $ ^{44} $] 最小的孩子。例：“老六是他家的～，从小就受他父亲娇惯。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-ba-er-xí",
+      "headword": "把把儿席",
+      "starred": false,
+      "pinyin": "bà ba er xí",
+      "tonalNotation": "bā ⁴⁴ bar ²¹ xi ²⁴ ",
+      "ipa": "pa ⁵⁵ . per çi ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "吃完宴席剩下的饭菜。",
+          "examples": [
+            "“不要浪费，浪费是哈日阿姆（犯罪），所以咱们把这些～吃干净。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把把儿席】bà ba er xí（bā $ ^{44} $bar $ ^{21} $xi $ ^{24} $）[pa $ ^{55} $. per çi $ ^{24} $] 吃完宴席剩下的饭菜。例：“不要浪费，浪费是哈日阿姆（犯罪），所以咱们把这些～吃干净。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-ba-wěi-er",
+      "headword": "把把尾儿",
+      "starred": false,
+      "pinyin": "bà ba wěi er",
+      "tonalNotation": "ba ⁴⁴ bar ²¹ yir ²⁴⁻⁴⁴ ",
+      "ipa": "pa ⁵⁵ .pər iər ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "最后的、末尾。",
+          "examples": [
+            "“今天一大早他就去排队买票，可还是排了一个～，到中午才买上票。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把把尾儿】bà ba wěi er（ba $ ^{44} $bar $ ^{21} $yir $ ^{24-44} $）[pa $ ^{55} $.pər iər $ ^{53} $]最后的、末尾。例：\n\n“今天一大早他就去排队买票，可还是排了一个～，到中午才买上票。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-bī-chè",
+      "headword": "把尿扯",
+      "starred": false,
+      "pinyin": "bā bī chè",
+      "tonalNotation": "bā ²¹⁻²⁴ pì ²¹ che ⁵³ ",
+      "ipa": "pā ²¹⁻²⁴ pì ^{h} i ²¹ tǔ ^{h} y ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "把事情搞砸了、希望彻底毁灭了。",
+          "examples": [
+            "“这一下～，彻底没希望了！”“我说不敢动，你非要动，～咧！你心定了！”“那人不可靠，你不相信，现在上当了，～咧吧？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把尿扯】bā bī chè（bā $ ^{21-24} $pì $ ^{21} $che $ ^{53} $）[pā $ ^{21-24} $pì $ ^{h} $i $ ^{21} $tǔ $ ^{h} $y $ ^{53} $]把事情搞砸了、希望彻底毁灭了。例：“这一下～，彻底没希望了！”“我说不敢动，你非要动，～咧！你心定了！”“那人不可靠，你不相信，现在上当了，～咧吧？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-dàn-chàng",
+      "headword": "把旦唱",
+      "starred": false,
+      "pinyin": "bǎ dàn chàng",
+      "tonalNotation": "ba ²¹ dàn ⁴⁴ chang ⁴⁴ ",
+      "ipa": "pa ²¹ tā ⁴⁴ tǔ ⁴⁴ hán ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "完蛋、事情办砸了。",
+          "examples": [
+            "“这一回娃逞能可没有逞好，～咧！”“事情办不办，不要紧，决不能～了，要是你～了，以后就不要想让我再给你事情做。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把旦唱】bǎ dàn chàng（ba $ ^{21} $dàn $ ^{44} $chang $ ^{44} $）[pa $ ^{21} $tā $ ^{44} $tǔ $ ^{44} $hán $ ^{44} $] 完蛋、事情办砸了。例：“这一回娃逞能可没有逞好，～咧！”“事情办不办，不要紧，决不能～了，要是你～了，以后就不要想让我再给你事情做。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bā-er-tóu",
+      "headword": "把 $ ^{头} $",
+      "starred": false,
+      "pinyin": "bā er tóu",
+      "tonalNotation": "bēr ²¹ tou ²⁴ ",
+      "ipa": "per ²¹ thzu ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "饮食业执掌炒瓢的师傅。",
+          "examples": [
+            "“你们泡馍馆生意这么好，全靠那个～手艺好！”"
+          ],
+          "notes": "“把”儿化较重，[pr $ ^{53} $] 是一个重度音，而且儿音明显较长些。"
+        }
+      ],
+      "rawText": "【把 $ ^{头} $】bā er tóu（bēr $ ^{21} $tou $ ^{24} $）[per $ ^{21} $thzu $ ^{24} $] 饮食业执掌炒瓢的师傅。例：“你们泡馍馆生意这么好，全靠那个～手艺好！” 注：“把”儿化较重，[pr $ ^{53} $] 是一个重度音，而且儿音明显较长些。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-gé-ěr",
+      "headword": "把格尔",
+      "starred": true,
+      "pinyin": "bǎ gé ěr",
+      "tonalNotation": "ba ⁵³ ger ²⁴ ",
+      "ipa": "pa ⁵³ ker ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "persian"
+      ],
+      "definitions": [
+        {
+          "meaning": "金钱、钞票。",
+          "examples": [
+            "“走，哥哥今日个腰里有~了，请你吃饭去。”“你腰里没有~就不要说硬气话！”“你的~再多也没有银行的~多。”"
+          ],
+          "notes": "该词来源于波斯语 ﺋﺎﺗﺎﺕ 一词，音读(bokharee)，读音近似“巴格尔”，原意为：1 赌注，2 存钱的地方、银号，钱庄。西安回族话的~是该词演化而来。"
+        }
+      ],
+      "rawText": "【把格尔★】bǎ gé ěr（ba $ ^{53} $ger $ ^{24} $）[pa $ ^{53} $ker $ ^{24} $]金钱、钞票。例：“走，哥哥今日个腰里有~了，请你吃饭去。”“你腰里没有~就不要说硬气话！”“你的~再多也没有银行的~多。” 注：该词来源于波斯语 ﺋﺎﺗﺎﺕ 一词，音读(bokharee)，读音近似“巴格尔”，原意为：1 赌注，2 存钱的地方、银号，钱庄。西安回族话的~是该词演化而来。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-huá",
+      "headword": "把滑",
+      "starred": false,
+      "pinyin": "bǎ huá",
+      "tonalNotation": "bā huā ²⁴ ",
+      "ipa": "pā ⁵³ xua ²⁴ 】①摩擦大能够防滑。例：“你那双棉鞋底于磨光了，一点不～，把这双新胶底棉鞋换上，这双底子军用的～的很。”“这儿脚底下（地上）可不～，光（读[kuan ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "引申为把关，使问题不要出现滑坡。",
+          "examples": [
+            "“你们一块出去，遇事你年龄大多～～才对呢。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把滑】bǎ huá（bā huā $ ^{24} $）[pā $ ^{53} $xua $ ^{24} $】①摩擦大能够防滑。例：“你那双棉鞋底于磨光了，一点不～，把这双新胶底棉鞋换上，这双底子军用的～的很。”“这儿脚底下（地上）可不～，光（读[kuan $ ^{44} $]，光滑）得很，你小心着走！”②引申为把关，使问题不要出现滑坡。例：“你们一块出去，遇事你年龄大多～～才对呢。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-mài-yán-de-dǎ-sī-lie",
+      "headword": "把卖盐的打死咧",
+      "starred": false,
+      "pinyin": "bǎ mài yán de dǎ sī lie",
+      "tonalNotation": "bā ²¹ mài ⁴⁴ yán ²⁴ di ⁰ da ⁵³⁻²¹ si liè ⁰ ",
+      "ipa": "pa ²¹ māe ⁴⁴ iā ²⁴ .ti ta ⁵³⁻²¹ s ⁵³⁻²¹ .liè",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "饭菜里盐份过多，味道特别咸。",
+          "examples": [
+            "“得是（是不是）今个～，饭咸的简直吃不成！"
+          ],
+          "notes": "旧时产生的一种夸张比喻打死了卖盐的，把盐都据为己有，吃盐不掏钱一个劲儿吃。"
+        }
+      ],
+      "rawText": "【把卖盐的打死咧】bǎ mài yán de dǎ sī lie（bā $ ^{21} $mài $ ^{44} $yán $ ^{24} $di $ ^{0} $da $ ^{53-21} $si liè $ ^{0} $）[pa $ ^{21} $māe $ ^{44} $iā $ ^{24} $.ti ta $ ^{53-21} $s $ ^{53-21} $.liè]饭菜里盐份过多，味道特别咸。例：“得是（是不是）今个～，饭咸的简直吃不成！注：旧时产生的一种夸张比喻打死了卖盐的，把盐都据为己有，吃盐不掏钱一个劲儿吃。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-ping",
+      "headword": "把凭",
+      "starred": false,
+      "pinyin": "bǎ ping",
+      "tonalNotation": "ba ⁵³ pimg ²¹ ",
+      "ipa": "pa ⁵³ pini ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "依据、证明、根据。",
+          "examples": [
+            "“你要说你是公安干警，把你的公安～亮出来。”“这些话你没有～可千万不要说！”“听话音，得是（是不是）他有啥～被你抓住了？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把凭】bǎ ping （ba $ ^{53} $pimg $ ^{21} $）[pa $ ^{53} $pini $ ^{21} $] 依据、证明、根据。例：“你要说你是公安干警，把你的公安～亮出来。”“这些话你没有～可千万不要说！”“听话音，得是（是不是）他有啥～被你抓住了？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-shì",
+      "headword": "把式",
+      "starred": false,
+      "pinyin": "bǎ shì",
+      "tonalNotation": "bā ⁵³ shì ²¹ ",
+      "ipa": "pa ⁵³ sǐ ³¹ ",
+      "section": "B",
+      "originLanguages": [
+        "mongolian"
+      ],
+      "definitions": [
+        {
+          "meaning": "行家里手。又可以写成“把势”。精通某项业务的行家里手。",
+          "examples": [
+            "“车～、炒菜的～、盖房的～。”“干啥都要精，就是做厨师也要做一个炒菜的好～！”"
+          ],
+          "notes": "这个词语来源于蒙古语，当初蒙古语从\n汉语借了“博士”一词去用，“博士”在汉语中本来是指教师，但蒙古语读得像“把式/把势”并且用来指师傅以及精通某项业务的行家里手。后来，汉语又从蒙古语借来了“把式”一词，而汉语本来的那个“博士”还保留在汉语里使用，“把式”与“博士”之间的音义关系已经几乎荡然无存了。"
+        }
+      ],
+      "rawText": "【把式】bǎ shì（bā $ ^{53} $shì $ ^{21} $）[pa $ ^{53} $sǐ $ ^{31} $] 行家里手。又可以写成“把势”。精通某项业务的行家里手。例：“车～、炒菜的～、盖房的～。”“干啥都要精，就是做厨师也要做一个炒菜的好～！” 注：这个词语来源于蒙古语，当初蒙古语从\n汉语借了“博士”一词去用，“博士”在汉语中本来是指教师，但蒙古语读得像“把式/把势”并且用来指师傅以及精通某项业务的行家里手。后来，汉语又从蒙古语借来了“把式”一词，而汉语本来的那个“博士”还保留在汉语里使用，“把式”与“博士”之间的音义关系已经几乎荡然无存了。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan3.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 4,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-suō",
+      "headword": "把缩",
+      "starred": false,
+      "pinyin": "bǎ suō",
+      "tonalNotation": "bā ⁵³ f \\alpha²¹ ",
+      "ipa": "p \\alpha⁵³ f \\alpha²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "由于不熟悉而尴尬、拘束。",
+          "examples": [
+            "“这种场合我不习惯，浑身都不自在～的很。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "环境受限，工作受限制，",
+          "examples": [
+            "“办这件事人要受～呢，难受的很。”"
+          ],
+          "notes": "孙立新老师写作“把索”。又作“把作”。"
+        }
+      ],
+      "rawText": "【把缩】bǎ suō（bā $ ^{53} $f $ \\alpha^{21} $）[p $ \\alpha^{53} $f $ \\alpha^{21} $]行为受限制，展不开。①由于不熟悉而尴尬、拘束。例：“这种场合我不习惯，浑身都不自在～的很。”③环境受限，工作受限制，例：“办这件事人要受～呢，难受的很。” 注：孙立新老师写作“把索”。又作“把作”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-tā-jiā-de",
+      "headword": "把他家的",
+      "starred": false,
+      "pinyin": "bǎ tā jiā de",
+      "tonalNotation": "bā ²¹ tai ²¹ jia ²¹ di ⁰ ",
+      "ipa": "pā ²¹ t ^{h} a ²¹ tɕia ²¹ .ti",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "感叹语，真糟糕（常用在含有自嘲时）。",
+          "examples": [
+            "“～，今天咋做了个这事弄巧成拙，让大家笑话。”“亲家来了，我还一点不知道，～我还坐在这儿拉闲话呢！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把他家的】bǎ tā jiā de（bā $ ^{21} $tai $ ^{21} $jia $ ^{21} $di $ ^{0} $）[pā $ ^{21} $t $ ^{h} $a $ ^{21} $tɕia $ ^{21} $.ti] 感叹语，真糟糕（常用在含有自嘲时）。例：“～，今天咋做了个这事弄巧成拙，让大家笑话。”“亲家来了，我还一点不知道，～我还坐在这儿拉闲话呢！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-wá-jiāo-gěitōu-shīguǐ-liě",
+      "headword": "把娃交给偷尸鬼咧",
+      "starred": false,
+      "pinyin": "bǎ wá jiāo gěitōu shīguǐ liě",
+      "tonalNotation": "ba ²¹ wa ⁴⁴ jiao ²¹ gei ⁵³⁻²¹ tou ²¹ si ²¹ gui ²¹ lie ²¹ ",
+      "ipa": "pa ²¹ va ⁴⁴ tiau ²¹ kei ⁵³⁻²¹ t ^{b} u ²¹ si ²¹ kui ²¹ li ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "指把事情托付给不该托付的人，使事与愿违。",
+          "examples": [
+            "“老二哪个公司原本就是个皮包公司，你在他那里投资，不是等于～，寻着倒霉上当呢。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把娃交给偷尸鬼咧】bǎ wá jiāo gěitōu shīguǐ liě（ba $ ^{21} $wa $ ^{44} $ jiao $ ^{21} $gei $ ^{53-21} $ tou $ ^{21} $si $ ^{21} $gui $ ^{21} $lie $ ^{21} $）[pa $ ^{21} $va $ ^{44} $ tiau $ ^{21} $kei $ ^{53-21} $t $ ^{b} $u $ ^{21} $si $ ^{21} $kui $ ^{21} $ li $ ^{21} $] 指把事情托付给不该托付的人，使事与愿违。例：“老二哪个公司原本就是个皮包公司，你在他那里投资，不是等于～，寻着倒霉上当呢。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-zuò",
+      "headword": "把作",
+      "starred": false,
+      "pinyin": "bǎ zuò",
+      "tonalNotation": "bā ⁵³ zuò ²¹ ",
+      "ipa": "pā ⁵³ tsu ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "拘束，干活时不好出手，受限制，感到掣肘。",
+          "examples": [
+            "“夜个（昨晚）在别人家屋睡觉，～得很，一夜没睡好。”“这活难干得很，很难下手，人～的很很。”“今天这画确实没画好，围观人多～得很，发挥失常！”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "故意摆架子。",
+          "examples": [
+            "“看你当了个烂科长；～的些，头抬得高高的，脚手都不知道咋样放咧！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【把作】bǎ zuò（bā $ ^{53} $zuò $ ^{21} $）[pā $ ^{53} $tsu $ ^{21} $] ①拘束，干活时不好出手，受限制，感到掣肘。例：“夜个（昨晚）在别人家屋睡觉，～得很，一夜没睡好。”“这活难干得很，很难下手，人～的很很。”“今天这画确实没画好，围观人多～得很，发挥失常！”②故意摆架子。例：“看你当了个烂科长；～的些，头抬得高高的，脚手都不知道咋样放咧！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-1",
+      "headword": "尾",
+      "starred": false,
+      "pinyin": "bǎ",
+      "tonalNotation": "bā ⁵³ ",
+      "ipa": "pā ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "大便，拉屎。",
+          "examples": [
+            "“谁家的娃在这儿～咧一胖屎，也不铲掉。”“你稍等，他到茅子（厕所）～呢”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "特指拉肚子。",
+          "examples": [
+            "“他这两天～呢，～的不停，可能是痢疾。”“他前些天～的厉害，这几天不～了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【尾】bǎ（bā $ ^{53} $）[pā $ ^{53} $] ①大便，拉屎。例：“谁家的娃在这儿～咧一胖屎，也不铲掉。”“你稍等，他到茅子（厕所）～呢”②特指拉肚子。例：“他这两天～呢，～的不停，可能是痢疾。”“他前些天～的厉害，这几天不～了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-bù-jìng",
+      "headword": "尼不净",
+      "starred": false,
+      "pinyin": "bǎ bù jìng",
+      "tonalNotation": "bā ⁵³ bu ²¹ jing ⁴⁴ ",
+      "ipa": "pa ⁵³ pu ²¹ tín ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "原义指大便没彻底，引申为办事拖泥带不彻底。",
+          "examples": [
+            "“他干啥事总是～，有头无尾。”“和你一起出来你一会儿忘记关门，一会又是忘带提包就是个～！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【尼不净】bǎ bù jìng(bā $ ^{53} $bu $ ^{21} $jing $ ^{44} $)[pa $ ^{53} $pu $ ^{21} $tín $ ^{44} $]原义指大便没彻底，引申为办事拖泥带不彻底。例：“他干啥事总是～，有头无尾。”“和你一起出来你一会儿忘记关门，一会又是忘带提包就是个～！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-jǐng-shéng",
+      "headword": "尼井绳",
+      "starred": false,
+      "pinyin": "bǎ jǐng shéng",
+      "tonalNotation": "bā jīng shēng",
+      "ipa": "pā tái sān",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "开玩笑时指做事用的时间很长。",
+          "examples": [
+            "“叫你去拿个东西，你就去了这么长时间，得是（是不是）吃咧辘轳～呢？”“你快去快回，可不要吃咧辘轳～一去不见影儿咧。”"
+          ],
+          "notes": "又作“吃\n\n### 咧棉花屐线呢”。"
+        }
+      ],
+      "rawText": "【尼井绳】bǎ jǐng shéng（bā jīng shēng）[pā tái sān] 开玩笑时指做事用的时间很长。例：“叫你去拿个东西，你就去了这么长时间，得是（是不是）吃咧辘轳～呢？”“你快去快回，可不要吃咧辘轳～一去不见影儿咧。”注：又作“吃\n\n### 咧棉花屐线呢”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-shǐ",
+      "headword": "尼屎",
+      "starred": false,
+      "pinyin": "bǎ shǐ",
+      "tonalNotation": "bā sī",
+      "ipa": "pā sǐ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "大便，拉屎。",
+          "examples": [
+            "“～尿尿各行其道。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【尼屎】bǎ shǐ（bā sī）[pā sǐ] 大便，拉屎。例：“～尿尿各行其道。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎ-xià-le",
+      "headword": "尼下了",
+      "starred": false,
+      "pinyin": "bǎ xià le",
+      "tonalNotation": "bā sī ha²¹ liē²¹",
+      "ipa": "pā xiā 44-21 liē²¹",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "闯下乱子了，坏了。",
+          "examples": [
+            "“不得了，这下～，楼板塌下来了！”“～，把一个微型弹簧整不见咧！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【尼下了】bǎ xià le（bā sī ha²¹ liē²¹）[pā xiā 44-21 liē²¹] 闯下乱子了，坏了。例：“不得了，这下～，楼板塌下来了！”“～，把一个微型弹簧整不见咧！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-liě",
+      "headword": "罢咧",
+      "starred": false,
+      "pinyin": "bà liě",
+      "tonalNotation": "bā ⁴⁴ liě ²¹ ",
+      "ipa": "pā ⁴⁴ liě ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "不错、可以。",
+          "examples": [
+            "“马老师你看这张画不行，我看还～，先选上。”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "一般、平常、不行、不见得。",
+          "examples": [
+            "“马老师你说这张画还不错，我看～，笔墨没工夫！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【罢咧】bà liě（bā $ ^{44} $liě $ ^{21} $）[pā $ ^{44} $liě $ ^{21} $]①不错、可以。例：“马老师你看这张画不行，我看还～，先选上。”②一般、平常、不行、不见得。例：“马老师你说这张画还不错，我看～，笔墨没工夫！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bà-wáng-yìng-shàng-gōng",
+      "headword": "霸王硬上弓",
+      "starred": false,
+      "pinyin": "bà wáng yìng shàng gōng",
+      "tonalNotation": "bā ⁴⁴ wang ²¹ ning ⁴⁴ shang ⁴⁴ gong ²¹ ",
+      "ipa": "pa ⁴⁴ uan ²¹ nin ⁴⁴ sang ⁴⁴ kuan ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "以强势强迫人就范。",
+          "examples": [
+            "“你想买我的房，钱多钱少我都不卖给你，没咧（难道）你还能～不成？”“那一年的拆迁就是～，你不同意，公安派出所和拆迁商一回事，就把你一顿推土机，你也咋不了人家。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【霸王硬上弓】bà wáng yìng shàng gōng（bā $ ^{44} $wang $ ^{21} $ning $ ^{44} $shang $ ^{44} $gong $ ^{21} $）[pa $ ^{44} $uan $ ^{21} $nin $ ^{44} $sang $ ^{44} $kuan $ ^{21} $] 以强势强迫人就范。例：“你想买我的房，钱多钱少我都不卖给你，没咧（难道）你还能～不成？”“那一年的拆迁就是～，你不同意，公安派出所和拆迁商一回事，就把你一顿推土机，你也咋不了人家。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bāi-kāi-yǎnr",
+      "headword": "掰开眼儿",
+      "starred": false,
+      "pinyin": "bāi kāi yǎnr",
+      "tonalNotation": "bei ²¹ kai ²¹ nianr ⁵³ ",
+      "ipa": "pei ²¹ k ^{h} ae ²¹ niēr ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "指刚睡醒。",
+          "examples": [
+            "他~就要吃呢，老汉勤谨（勤劳）得很，～就拾粪去了。"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【掰开眼儿】bāi kāi yǎnr（bei $ ^{21} $kai $ ^{21} $nianr $ ^{53} $）[pei $ ^{21} $k $ ^{h} $ae $ ^{21} $niēr $ ^{53} $] 指刚睡醒。例：他~就要吃呢，老汉勤谨（勤劳）得很，～就拾粪去了。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bāi-huǐ",
+      "headword": "簕毁",
+      "starred": false,
+      "pinyin": "bāi huǐ",
+      "tonalNotation": "bei ²¹ huǐ ⁵³⁻²¹ ",
+      "ipa": "pei ²¹ xuei ⁵³⁻²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "毁坏。",
+          "examples": [
+            "“你咋把这么好的家具～了呢？”"
+          ],
+          "notes": ""
+        },
+        {
+          "meaning": "伤害、杀害。",
+          "examples": [
+            "“你敢打他，我今个就把你～到这儿！”“你这样还不等于把娃～咧？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【簕毁】bāi huǐ（bei $ ^{21} $huǐ $ ^{53-21} $）[pei $ ^{21} $xuei $ ^{53-21} $]毁坏、损坏。①毁坏。例：“你咋把这么好的家具～了呢？”②伤害、杀害。例：“你敢打他，我今个就把你～到这儿！”“你这样还不等于把娃～咧？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bāi-shǒu",
+      "headword": "掰手",
+      "starred": false,
+      "pinyin": "bāi shǒu",
+      "tonalNotation": "bei ²¹ shou ⁵³ ",
+      "ipa": "pei ²¹ sǔu ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "主动调解问题，打动对方，取得对方的同意，而使矛盾得以和解（使对方紧紧攥握不肯分开的手松开）。",
+          "examples": [
+            "“大哥今天请你去小刘家～，你一定要沉住气，别急躁，一定要把这个手掰开，让小刘她爸把这桩婚事应承（答应）了。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【掰手】bāi shǒu（bei $ ^{21} $ shou $ ^{53} $）[pei $ ^{21} $ sǔu $ ^{53} $] 主动调解问题，打动对方，取得对方的同意，而使矛盾得以和解（使对方紧紧攥握不肯分开的手松开）。例：“大哥今天请你去小刘家～，你一定要沉住气，别急躁，一定要把这个手掰开，让小刘她爸把这桩婚事应承（答应）了。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bāi-suì-pào-shàng",
+      "headword": "簸碎泡上",
+      "starred": true,
+      "pinyin": "bāi suì pào shàng",
+      "tonalNotation": "bei ²¹ sui ⁴⁴ pao ⁴⁴ shang ²¹ ",
+      "ipa": "pei ²¹ suei ⁴⁴ p \\hat{a} u ⁴⁴ s \\hat{a} n ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "形容给别人讲解、解决问题时循循善诱，反复耐心说明。",
+          "examples": [
+            "“这个道理～的说，他就是不听，咋办呢（怎么办）？”"
+          ],
+          "notes": "～犹如西安人吃羊肉泡馍，把馍首先一点一点掰成小小的馍快，然后再用肉汤泡好，一样的耐心。"
+        }
+      ],
+      "rawText": "【簸碎泡上★】bāi suì pào shàng（bei $ ^{21} $sui $ ^{44} $pao $ ^{44} $shang $ ^{21} $）[pei $ ^{21} $suei $ ^{44} $p $ \\hat{a} $u $ ^{44} $s $ \\hat{a} $n $ ^{21} $]形容给别人讲解、解决问题时循循善诱，反复耐心说明。例：“这个道理～的说，他就是不听，咋办呢（怎么办）？” 注：～犹如西安人吃羊肉泡馍，把馍首先一点一点掰成小小的馍快，然后再用肉汤泡好，一样的耐心。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bāi-kāi-róu-suì",
+      "headword": "簽开揉碎",
+      "starred": true,
+      "pinyin": "bāi kāi róu suì",
+      "tonalNotation": "bei ²¹ kai ²¹ rou ²⁴ suei ⁴⁴ ",
+      "ipa": "pei ²¹ k ^{h} e ²¹ zu ²⁴ suei ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "意同“簽碎泡上”，即反反复复、来来回回，不厌其烦。",
+          "examples": [
+            "“老师耐心给他把数学题～一层层分解地讲。”“他脑子猛然转不过，你给他～讲，霎笼统说。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【簽开揉碎★】bāi kāi róu suì（bei $ ^{21} $kai $ ^{21} $rou $ ^{24} $suei $ ^{44} $）[pei $ ^{21} $k $ ^{h} $e $ ^{21} $zu $ ^{24} $suei $ ^{44} $] 意同“簽碎泡上”，即反反复复、来来回回，不厌其烦。例：“老师耐心给他把数学题～一层层分解地讲。”“他脑子猛然转不过，你给他～讲，霎笼统说。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-dà-xiā",
+      "headword": "白大瞎",
+      "starred": false,
+      "pinyin": "bái dà xiā",
+      "tonalNotation": "bei ²⁴ dà ⁴⁴ ha ²¹ ",
+      "ipa": "pei ²⁴ ta ⁴⁴ xa ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "坏的，不好的。",
+          "examples": [
+            "“有事不要让他去，他就会丢～，坏事情。”“他今天在大会上又切咧个～，弄得老王下不\n来台。”“你这个人嘴长（爱说话）还没有脑子，今天谈话你不要言语，免得又切~！”"
+          ],
+          "notes": "瞎xia读哈[x $ \\alpha^{21} $]。原指西瓜没有熟透，引申为说出了本不应该说的话（别人都不想说的话），使原本应当保密的事出现了曝光。常说：“切白大瞎”。"
+        }
+      ],
+      "rawText": "【白大瞎】bái dà xiā（bei $ ^{24} $dà $ ^{44} $ha $ ^{21} $）[pei $ ^{24} $ta $ ^{44} $xa $ ^{21} $]坏的，不好的。例：“有事不要让他去，他就会丢～，坏事情。”“他今天在大会上又切咧个～，弄得老王下不\n来台。”“你这个人嘴长（爱说话）还没有脑子，今天谈话你不要言语，免得又切~！”注：瞎xia读哈[x $ \\alpha^{21} $]。原指西瓜没有熟透，引申为说出了本不应该说的话（别人都不想说的话），使原本应当保密的事出现了曝光。常说：“切白大瞎”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan4.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 5,
+      "sourcePage": null
+    },
+    {
+      "id": "béi-dū-dǐ",
+      "headword": "白丢底",
+      "starred": true,
+      "pinyin": "béi dū dǐ",
+      "tonalNotation": "bei _{r}²⁴ diu _{r}²¹ di _{r}⁵³ ",
+      "ipa": "pei _{r}²⁴ ti \\alpha u _{r}²¹ ti _{r}⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "丢人现眼。",
+          "examples": [
+            "“你净干这些～的事，你丢人不丢人？”“耍鸟人常说，麻鹩叫：字、奎、金、皮条，叫不好～，开开笼子放咧你！”“你不要在这儿胡说乱道，净说些～的话。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白丢底★】béi dū dǐ（bei $ _{r}^{24} $ diu $ _{r}^{21} $ di $ _{r}^{53} $）[pei $ _{r}^{24} $ ti $ \\alpha $u $ _{r}^{21} $ ti $ _{r}^{53} $]丢人现眼。例：“你净干这些～的事，你丢人不丢人？”“耍鸟人常说，麻鹩叫：字、奎、金、皮条，叫不好～，开开笼子放咧你！”“你不要在这儿胡说乱道，净说些～的话。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-bù-dǐng",
+      "headword": "白不顶",
+      "starred": false,
+      "pinyin": "bái bù dǐng",
+      "tonalNotation": "bei ²⁴ bu ²¹ dǐng ⁵³ ",
+      "ipa": "pei ²⁴ pu ²¹ ti \\eta⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "不起作用。“你再厉害，再叫来些人我也不怕，你～！”“你不学真本事，光想巴结领导，最终~。”",
+          "examples": [],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白不顶】bái bù dǐng（bei $ ^{24} $bu $ ^{21} $dǐng $ ^{53} $）[pei $ ^{24} $pu $ ^{21} $ti $ \\eta^{53} $]不起作用。“你再厉害，再叫来些人我也不怕，你～！”“你不学真本事，光想巴结领导，最终~。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bǎi-bù-zǎ",
+      "headword": "白不咋",
+      "starred": false,
+      "pinyin": "bǎi bù zǎ",
+      "tonalNotation": "bei ²⁴ bu ²¹ za ⁵³ ",
+      "ipa": "pei ²⁴ pu ²¹ tsa ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "怎样不了、无所谓。",
+          "examples": [
+            "“有理走遍天下，你就是到派出所，别看你舅是所长他把我也～！”“你不要说他把你~，他有实力，你靠啥？”“我靠本事吃饭，开除了也～，有地方要！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白不咋】bǎi bù zǎ（bei $ ^{24} $bu $ ^{21} $za $ ^{53} $）[pei $ ^{24} $pu $ ^{21} $tsa $ ^{53} $]怎样不了、无所谓。例：“有理走遍天下，你就是到派出所，别看你舅是所长他把我也～！”“你不要说他把你~，他有实力，你靠啥？”“我靠本事吃饭，开除了也～，有地方要！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-chī-zǎoxián-hé-dà",
+      "headword": "白吃枣，嫌核大",
+      "starred": false,
+      "pinyin": "bái chī zǎo，xián hé dà",
+      "tonalNotation": "bei ²⁴ chi ²¹ zaor ⁵³ xian ²⁴ hur ²⁴ da ⁴⁴ ",
+      "ipa": "pei ²⁴ ts ^{b} l ²¹ tsor ⁵³ giā ²⁴ xur ²⁴ ta ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "指挑拣特别大，挑拣不应该条件的人。",
+          "examples": [
+            "“你有啥资格挑肥拣瘦，～！”“不要～，啥啥不干得了奖赏还嫌不好！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白吃枣，嫌核大】bái chī zǎo，xián hé dà（bei $ ^{24} $chi $ ^{21} $zaor $ ^{53} $ xian $ ^{24} $hur $ ^{24} $da $ ^{44} $）[pei $ ^{24} $ts $ ^{b} $l $ ^{21} $tsor $ ^{53} $ giā $ ^{24} $xur $ ^{24} $ta $ ^{44} $]指挑拣特别大，挑拣不应该条件的人。例：“你有啥资格挑肥拣瘦，～！”“不要～，啥啥不干得了奖赏还嫌不好！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-dòu-er-pí",
+      "headword": "白豆儿皮",
+      "starred": false,
+      "pinyin": "bái dòu er pí",
+      "tonalNotation": "bei ²⁴ dour ²⁴ pi ²⁴ ",
+      "ipa": "pei ²⁴ tar ²⁴ p ²⁴ i ²⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "厚脸皮，面对羞耻面不改色的人。",
+          "examples": [
+            "“你看这个娃老师再批评都不听话，不完成作业脸一点也不红，简直就是一个～。”“你不要骂。他是个～就不知道辱骂有何作用。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白豆儿皮】bái dòu er pí（bei $ ^{24} $dour $ ^{24} $pi $ ^{24} $）[pei $ ^{24} $tar $ ^{24} $p $ ^{24} $i $ ^{24} $]厚脸皮，面对羞耻面不改色的人。例：“你看这个娃老师再批评都不听话，不完成作业脸一点也不红，简直就是一个～。”“你不要骂。他是个～就不知道辱骂有何作用。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-dòu-zi",
+      "headword": "白豆子",
+      "starred": false,
+      "pinyin": "bái dòu zi",
+      "tonalNotation": "bei ²⁴ dou ²¹ zi ⁰ ",
+      "ipa": "pei ²⁴ tzu ⁴⁴ .ts ⁷ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "大豆。又作“黄豆”",
+          "examples": [
+            "“炒～香，可上火，煮～不上火，仍然香。”“你泡些～，明天早上我给咱打豆浆。”“～蛋白质多，营养丰富。”"
+          ],
+          "notes": "也说“白豆儿，黄豆”。"
+        }
+      ],
+      "rawText": "【白豆子】bái dòu zi（bei $ ^{24} $dou $ ^{21} $zi $ ^{0} $） [pei $ ^{24} $tzu $ ^{44} $.ts $ ^{7} $] 大豆。又作“黄豆”例：“炒～香，可上火，煮～不上火，仍然香。”“你泡些～，明天早上我给咱打豆浆。”“～蛋白质多，营养丰富。” 注：也说“白豆儿，黄豆”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "béi-gài-dū-zi",
+      "headword": "白盖肚子",
+      "starred": false,
+      "pinyin": "béi gài dū zi",
+      "tonalNotation": "bei _{p}²⁴ gai _{p}⁴⁴ du _{p}²¹ zi _{p}⁰ ",
+      "ipa": "pei _{p}²⁴ ka _{p}⁴⁴ tu _{p}²¹ ts _{p} ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "隐私、老底。",
+          "examples": [
+            "“你就要把她的乃些～一下给揭出来，让大家都知道。”“马老大经常爱揭别人的～显示他的能耐，所以没有人和他交往！”“你不要揭他的～，你揭咧他的～他当然不高兴。”“他再这样吹牛，我非得当面揭他的～！”“你就要追根问底非把～问出不可。”"
+          ],
+          "notes": "“盖肚子”青蛙、蛤蟆，因为肚子是白色，常年隐藏在黄绿色的体表下，只有翻滚是才为人看见。引申为隐私、老底儿。"
+        }
+      ],
+      "rawText": "【白盖肚子】béi gài dū zi (bei $ _{p}^{24} $gai $ _{p}^{44} $du $ _{p}^{21} $zi $ _{p}^{0} $) [pei $ _{p}^{24} $ka $ _{p}^{44} $tu $ _{p}^{21} $ts $ _{p} $]隐私、老底。例：“你就要把她的乃些～一下给揭出来，让大家都知道。”“马老大经常爱揭别人的～显示他的能耐，所以没有人和他交往！”“你不要揭他的～，你揭咧他的～他当然不高兴。”“他再这样吹牛，我非得当面揭他的～！”“你就要追根问底非把～问出不可。”注：“盖肚子”青蛙、蛤蟆，因为肚子是白色，常年隐藏在黄绿色的体表下，只有翻滚是才为人看见。引申为隐私、老底儿。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-hǎo",
+      "headword": "白蒿",
+      "starred": false,
+      "pinyin": "bái hǎo",
+      "tonalNotation": "",
+      "ipa": "bei²⁴hao²¹",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "[pei²⁴xau²¹] 茵陈。",
+          "examples": [
+            "“大白杨回民墓园的～都涨满了，树木叶子绿油油，～味道好闻得很。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白蒿】bái hǎo[bei²⁴hao²¹][pei²⁴xau²¹] 茵陈。例：“大白杨回民墓园的～都涨满了，树木叶子绿油油，～味道好闻得很。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-hú-xuě-xiàng",
+      "headword": "白胡雪项",
+      "starred": true,
+      "pinyin": "bái hú xuě xiàng",
+      "tonalNotation": "bei ²⁴ hu ²⁴ xue ²¹ hang ⁴⁴ ",
+      "ipa": "pei ²⁴ xu ²⁴ cye ²¹ xanj ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "形容老年人白胡超过脖子，精神闪烁。",
+          "examples": [
+            "“老刘阿訇～、红光满面，白帽子，白袷袢（长袍）真精神！”“你都～的还和年轻人争高低。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白胡雪项★】bái hú xuě xiàng（bei $ ^{24} $hu $ ^{24} $xue $ ^{21} $hang $ ^{44} $）[pei $ ^{24} $xu $ ^{24} $cye $ ^{21} $xanj $ ^{44} $] 形容老年人白胡超过脖子，精神闪烁。例：“老刘阿訇～、红光满面，白帽子，白袷袢（长袍）真精神！”“你都～的还和年轻人争高低。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-máo-bī",
+      "headword": "白毛戾",
+      "starred": false,
+      "pinyin": "bái máo bī",
+      "tonalNotation": "bei ²⁴ maor ²¹ pi ²¹ ",
+      "ipa": "pei ²⁴ mau ²¹ p ^{h,21} ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "爱生别人气，惹不起的女人。",
+          "examples": [
+            "“你简直是一个～，没招没惹就动不动就生人的气。”“这女人～，只能善待不敢惹！”“批评你两句，你就哭得不停，难道你是～不敢说？”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白毛戾】bái máo bī（bei $ ^{24} $maor $ ^{21} $pi $ ^{21} $）[pei $ ^{24} $mau $ ^{21} $p $ ^{h,21} $] 爱生别人气，惹不起的女人。例：“你简直是一个～，没招没惹就动不动就生人的气。”“这女人～，只能善待不敢惹！”“批评你两句，你就哭得不停，难道你是～不敢说？”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-mǐ",
+      "headword": "白米",
+      "starred": false,
+      "pinyin": "bái mǐ",
+      "tonalNotation": "bei ²⁴ mi ²¹ ",
+      "ipa": "pei ²⁴ mi ⁵³⁻²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "大米。",
+          "examples": [
+            "“今天我给咱蒸些～饭。”“打开这一袋～，这是上好的泰国～，做出饭来香的很。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白米】bái mǐ（bei $ ^{24} $mi $ ^{21} $）[pei $ ^{24} $mi $ ^{53-21} $] 大米。例：“今天我给咱蒸些～饭。”“打开这一袋～，这是上好的泰国～，做出饭来香的很。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-mǐ-èr-dǒu-bàn",
+      "headword": "白米二斗半",
+      "starred": false,
+      "pinyin": "bái mǐ èr dǒu bàn",
+      "tonalNotation": "bei ²⁴ mi ⁵³⁻²¹ er ²⁴ dou ⁵³⁻²¹ ban ⁴⁴ ",
+      "ipa": "pei ²⁴ mi ⁵³⁻²¹ er ⁴⁴ xu ⁵³⁻²¹ pā ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "不起作用、不顶用。",
+          "examples": [
+            "“别看他费乃么大的气力给他娃补课，我看也是个～，啥啥不顶。”“你不好好塌下心学习，你巴巴（爷爷）再花钱我看也是个～，白不顶啥！”“老师再给他说好话也罢、瞎话也罢他都是～、白不顶（不顶用）。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白米二斗半】bái mǐ èr dǒu bàn（bei $ ^{24} $mi $ ^{53-21} $er $ ^{24} $dou $ ^{53-21} $ban $ ^{44} $）[pei $ ^{24} $mi $ ^{53-21} $er $ ^{44} $xu $ ^{53-21} $pā $ ^{44} $]不起作用、不顶用。例：“别看他费乃么大的气力给他娃补课，我看也是个～，啥啥不顶。”“你不好好塌下心学习，你巴巴（爷爷）再花钱我看也是个～，白不顶啥！”“老师再给他说好话也罢、瞎话也罢他都是～、白不顶（不顶用）。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-miàn-er",
+      "headword": "白面儿",
+      "starred": false,
+      "pinyin": "bái miàn er",
+      "tonalNotation": "bei ²⁴ mianr ⁵³ ",
+      "ipa": "pei ²⁴ miěr ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "毒品，大烟白粉。",
+          "examples": [
+            "“他家的贫农成分是解放前他爷爷吸～，把家当吸完咧，一解放给评下的。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白面儿】bái miàn er（bei $ ^{24} $mianr $ ^{53} $）[pei $ ^{24} $miěr $ ^{53} $]毒品，大烟白粉。例：“他家的贫农成分是解放前他爷爷吸～，把家当吸完咧，一解放给评下的。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-pí-diǎn-xīn",
+      "headword": "白皮点心",
+      "starred": true,
+      "pinyin": "bái pí diǎn xīn",
+      "tonalNotation": "bei ²³ pīr ²¹ dian ⁵³ xīn ²¹ ",
+      "ipa": "pei ²⁴ pīr ²⁴ tiā ⁵³ cīn ²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "用上等面粉包裹砂糖、青红丝、桃仁、冰糖、芝麻等馅，烤制而成的西安回族爱吃的一种甜点。",
+          "examples": [
+            "“买上二斤～，把你二爷爷看一下。”“掌柜的给我称一斤～二近斤南糖。”"
+          ],
+          "notes": "～，犹如汉族所说的“水晶饼”。"
+        }
+      ],
+      "rawText": "【白皮点心★】bái pí diǎn xīn（bei $ ^{23} $pīr $ ^{21} $dian $ ^{53} $xīn $ ^{21} $）[pei $ ^{24} $pīr $ ^{24} $tiā $ ^{53} $cīn $ ^{21} $] 用上等面粉包裹砂糖、青红丝、桃仁、冰糖、芝麻等馅，烤制而成的西安回族爱吃的一种甜点。例：“买上二斤～，把你二爷爷看一下。”“掌柜的给我称一斤～二近斤南糖。” 注：～，犹如汉族所说的“水晶饼”。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-pú-chá",
+      "headword": "白蒲茬",
+      "starred": false,
+      "pinyin": "bái pú chá",
+      "tonalNotation": "",
+      "ipa": "bei ²⁴ pu ²⁴⁻²¹ ca ²⁴⁻²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "[pei $ ^{24} $ p $ ^{h} $u $ ^{24-21} $ ts $ ^{h} $a $ ^{24-21} $] 口疮溃疡。",
+          "examples": [
+            "“娃的嘴里出的～疼得连饭都吃不进去。”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白蒲茬】bái pú chá [bei $ ^{24} $ pu $ ^{24-21} $ ca $ ^{24-21} $] [pei $ ^{24} $ p $ ^{h} $u $ ^{24-21} $ ts $ ^{h} $a $ ^{24-21} $] 口疮溃疡。例：“娃的嘴里出的～疼得连饭都吃不进去。”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-qì",
+      "headword": "白气",
+      "starred": false,
+      "pinyin": "bái qì",
+      "tonalNotation": "bei ²⁴ qì ⁴⁴ ",
+      "ipa": "pei ²⁴ tɕ ^{h} i ⁴⁴ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "脑子不聪明的人；贬称缺少血性、傻呼呼的人。",
+          "examples": [
+            "石灰上头砸一砖——～冲天“我实在没见过你这号（这种）～，人家都恨不得把你整死，你还把他当知己呢。”“你咋说这种～你就不要来了！”"
+          ],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白气】bái qì（bei $ ^{24} $ qì $ ^{44} $）[pei $ ^{24} $ tɕ $ ^{h} $i $ ^{44} $] 脑子不聪明的人；贬称缺少血性、傻呼呼的人。例：石灰上头砸一砖——～冲天“我实在没见过你这号（这种）～，人家都恨不得把你整死，你还把他当知己呢。”“你咋说这种～你就不要来了！”",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-rèn",
+      "headword": "白人",
+      "starred": false,
+      "pinyin": "bái rèn",
+      "tonalNotation": "bei ²⁴ ren ²⁴⁻²¹ ",
+      "ipa": "pei ²⁴ zē ²⁴⁻²¹ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "白天。",
+          "examples": [
+            "“黑咧（晚上）你不睡觉，～你死倒（罥语：睡觉）得不起来！”“常言道：懒婆娘～睡觉、游四方，黑咧熬油补裤裆。”"
+          ],
+          "notes": "～使动结构，“人”读阴平，起强调“白”的作用，读放在词后，强调语气，在西安回族方言里还有许多，比如“恨人”“气人”“咬人（痒的很）”表示非常、特别、很，跟定前面词汇的意义。"
+        }
+      ],
+      "rawText": "【白人】bái rèn（bei $ ^{24} $ren $ ^{24-21} $）[pei $ ^{24} $zē $ ^{24-21} $]白天。例：“黑咧（晚上）你不睡觉，～你死倒（罥语：睡觉）得不起来！”“常言道：懒婆娘～睡觉、游四方，黑咧熬油补裤裆。” 注：～使动结构，“人”读阴平，起强调“白”的作用，读放在词后，强调语气，在西安回族方言里还有许多，比如“恨人”“气人”“咬人（痒的很）”表示非常、特别、很，跟定前面词汇的意义。",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    },
+    {
+      "id": "bái-rì-guǐ",
+      "headword": "白日鬼",
+      "starred": false,
+      "pinyin": "bái rì guǐ",
+      "tonalNotation": "bei ²⁴ ri ²¹ gui ⁵³ ",
+      "ipa": "pei ²⁴ zǐ ²¹ kuei ⁵³ ",
+      "section": "B",
+      "originLanguages": [
+        "general"
+      ],
+      "definitions": [
+        {
+          "meaning": "没有实在本领，行为、",
+          "examples": [],
+          "notes": ""
+        }
+      ],
+      "rawText": "【白日鬼】bái rì guǐ（bei $ ^{24} $ri $ ^{21} $gui $ ^{53} $）[pei $ ^{24} $zǐ $ ^{21} $kuei $ ^{53} $] 没有实在本领，行为、",
+      "images": [],
+      "sourceFile": "pages_8-19_scan5.md",
+      "sourcePages": "8-19",
+      "sourcePdf": "8-19.pdf",
+      "sourcePdfPage": 6,
+      "sourcePage": null
+    }
+  ]
+}
